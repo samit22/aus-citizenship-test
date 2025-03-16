@@ -1,0 +1,69 @@
+/* Flag container */
+.flag-container {
+  width: 200px; /* Maintain 2:1 ratio */
+  height: 100px;
+  position: relative;
+  overflow: hidden;
+  animation: wave 6s infinite ease-in-out; /* Reduced from 8s for faster cycle */
+}
+
+/* Ensure SVG fills container */
+.flag-container svg {
+  width: 100%;
+  height: 100%;
+}
+
+/* Star animations */
+.star {
+  animation: pulse 1.5s infinite ease-in-out; /* Reduced from 2s for quicker pulse */
+}
+
+/* Assign unique animation delays to each star */
+#Comwlth {
+  animation-delay: 0s;
+}
+#αCrucis {
+  animation-delay: 0.3s;
+} /* Tighter delays for more overlap */
+#βCrucis {
+  animation-delay: 0.6s;
+}
+#γCrucis {
+  animation-delay: 0.9s;
+}
+#δCrucis {
+  animation-delay: 1.2s;
+}
+#εCrucis {
+  animation-delay: 1.5s;
+}
+
+/* Enhanced wave animation for the flag */
+@keyframes wave {
+  0%,
+  100% {
+    transform: perspective(500px) rotateY(0deg);
+  }
+  25% {
+    transform: perspective(500px) rotateY(10deg);
+  } /* Increased from 5deg */
+  50% {
+    transform: perspective(500px) rotateY(0deg);
+  }
+  75% {
+    transform: perspective(500px) rotateY(-10deg);
+  } /* Increased from -5deg */
+}
+
+/* Enhanced pulse animation for stars */
+@keyframes pulse {
+  0%,
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.3);
+    opacity: 0.7;
+  } /* Increased from 1.1 to 1.3, opacity from 0.8 to 0.7 */
+}
