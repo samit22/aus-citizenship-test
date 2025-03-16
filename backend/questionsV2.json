@@ -1,0 +1,5502 @@
+[
+	{
+		"id": "1",
+		"question": "What is the capital city of Australia?",
+		"options": [
+			"Sydney",
+			"Melbourne",
+			"Canberra",
+			"Perth"
+		],
+		"correct": "Canberra"
+	},
+	{
+		"id": "2",
+		"question": "Who were the first inhabitants of Australia?",
+		"options": [
+			"British settlers",
+			"Aboriginal and Torres Strait Islander peoples",
+			"Chinese migrants",
+			"Dutch explorers"
+		],
+		"correct": "Aboriginal and Torres Strait Islander peoples"
+	},
+	{
+		"id": "3",
+		"question": "When did European settlement in Australia begin?",
+		"options": [
+			"1770",
+			"1788",
+			"1851",
+			"1901"
+		],
+		"correct": "1788"
+	},
+	{
+		"id": "4",
+		"question": "What was the name of the first group of convict ships from Britain?",
+		"options": [
+			"First Fleet",
+			"Second Wave",
+			"Gold Rush",
+			"Federation Fleet"
+		],
+		"correct": "First Fleet"
+	},
+	{
+		"id": "5",
+		"question": "Who was the first Governor of New South Wales?",
+		"options": [
+			"Arthur Phillip",
+			"Lachlan Macquarie",
+			"John Howard",
+			"Edmund Barton"
+		],
+		"correct": "Arthur Phillip"
+	},
+	{
+		"id": "6",
+		"question": "What event began in 1851 in New South Wales and Victoria?",
+		"options": [
+			"Gold rush",
+			"Federation",
+			"First Fleet arrival",
+			"World War I"
+		],
+		"correct": "Gold rush"
+	},
+	{
+		"id": "7",
+		"question": "When did the colonies unite to form the Commonwealth of Australia?",
+		"options": [
+			"1788",
+			"1851",
+			"1901",
+			"1967"
+		],
+		"correct": "1901"
+	},
+	{
+		"id": "8",
+		"question": "What referendum in 1967 included Aboriginal peoples in population estimates?",
+		"options": [
+			"1901 Referendum",
+			"1967 Referendum",
+			"1975 Vote",
+			"2000 Census"
+		],
+		"correct": "1967 Referendum"
+	},
+	{
+		"id": "9",
+		"question": "What is Australia’s national language?",
+		"options": [
+			"English",
+			"Mandarin",
+			"French",
+			"Spanish"
+		],
+		"correct": "English"
+	},
+	{
+		"id": "10",
+		"question": "What is the largest state in Australia by area?",
+		"options": [
+			"Queensland",
+			"Western Australia",
+			"New South Wales",
+			"Victoria"
+		],
+		"correct": "Western Australia"
+	},
+	{
+		"id": "11",
+		"question": "What is the capital city of New South Wales?",
+		"options": [
+			"Sydney",
+			"Melbourne",
+			"Brisbane",
+			"Canberra"
+		],
+		"correct": "Sydney"
+	},
+	{
+		"id": "12",
+		"question": "What is the capital city of Victoria?",
+		"options": [
+			"Sydney",
+			"Melbourne",
+			"Perth",
+			"Adelaide"
+		],
+		"correct": "Melbourne"
+	},
+	{
+		"id": "13",
+		"question": "What is the capital city of Queensland?",
+		"options": [
+			"Brisbane",
+			"Darwin",
+			"Hobart",
+			"Canberra"
+		],
+		"correct": "Brisbane"
+	},
+	{
+		"id": "14",
+		"question": "What is the capital city of Western Australia?",
+		"options": [
+			"Perth",
+			"Adelaide",
+			"Sydney",
+			"Melbourne"
+		],
+		"correct": "Perth"
+	},
+	{
+		"id": "15",
+		"question": "What is the capital city of South Australia?",
+		"options": [
+			"Adelaide",
+			"Hobart",
+			"Brisbane",
+			"Perth"
+		],
+		"correct": "Adelaide"
+	},
+	{
+		"id": "16",
+		"question": "What is the capital city of Tasmania?",
+		"options": [
+			"Hobart",
+			"Sydney",
+			"Melbourne",
+			"Canberra"
+		],
+		"correct": "Hobart"
+	},
+	{
+		"id": "17",
+		"question": "What is the capital city of the Australian Capital Territory?",
+		"options": [
+			"Canberra",
+			"Darwin",
+			"Sydney",
+			"Brisbane"
+		],
+		"correct": "Canberra"
+	},
+	{
+		"id": "18",
+		"question": "What is the capital city of the Northern Territory?",
+		"options": [
+			"Darwin",
+			"Perth",
+			"Adelaide",
+			"Hobart"
+		],
+		"correct": "Darwin"
+	},
+	{
+		"id": "19",
+		"question": "Which state is known for the Sydney Harbour Bridge?",
+		"options": [
+			"Victoria",
+			"Queensland",
+			"New South Wales",
+			"Western Australia"
+		],
+		"correct": "New South Wales"
+	},
+	{
+		"id": "20",
+		"question": "What is the smallest mainland state in Australia?",
+		"options": [
+			"Victoria",
+			"Tasmania",
+			"Queensland",
+			"South Australia"
+		],
+		"correct": "Victoria"
+	},
+	{
+		"id": "21",
+		"question": "Which state is separated from the mainland by the Bass Strait?",
+		"options": [
+			"Queensland",
+			"Tasmania",
+			"Western Australia",
+			"Victoria"
+		],
+		"correct": "Tasmania"
+	},
+	{
+		"id": "22",
+		"question": "What natural feature runs along Queensland’s eastern coast?",
+		"options": [
+			"Uluru",
+			"Great Barrier Reef",
+			"Flinders Ranges",
+			"Cradle Mountain"
+		],
+		"correct": "Great Barrier Reef"
+	},
+	{
+		"id": "23",
+		"question": "What is a famous wine region in South Australia?",
+		"options": [
+			"Hunter Valley",
+			"Barossa Valley",
+			"Margaret River",
+			"Yarra Valley"
+		],
+		"correct": "Barossa Valley"
+	},
+	{
+		"id": "24",
+		"question": "What is a key industry in Western Australia?",
+		"options": [
+			"Fishing",
+			"Mining",
+			"Tourism",
+			"Textiles"
+		],
+		"correct": "Mining"
+	},
+	{
+		"id": "25",
+		"question": "What is a notable landmark in the Northern Territory?",
+		"options": [
+			"Opera House",
+			"Uluru",
+			"12 Apostles",
+			"Harbour Bridge"
+		],
+		"correct": "Uluru"
+	},
+	{
+		"id": "26",
+		"question": "What cultural practice welcomes visitors to Indigenous land?",
+		"options": [
+			"Acknowledgement of Country",
+			"Welcome to Country",
+			"National Anthem",
+			"Pledge"
+		],
+		"correct": "Welcome to Country"
+	},
+	{
+		"id": "27",
+		"question": "What practice recognizes Traditional Custodians at events?",
+		"options": [
+			"Welcome to Country",
+			"Acknowledgement of Country",
+			"Pledge",
+			"Anthem"
+		],
+		"correct": "Acknowledgement of Country"
+	},
+	{
+		"id": "28",
+		"question": "When is Australia Day celebrated?",
+		"options": [
+			"January 26",
+			"April 25",
+			"July 1",
+			"December 25"
+		],
+		"correct": "January 26"
+	},
+	{
+		"id": "29",
+		"question": "What does Australia Day commemorate?",
+		"options": [
+			"Federation",
+			"Arrival of the First Fleet",
+			"Anzac landing",
+			"Independence"
+		],
+		"correct": "Arrival of the First Fleet"
+	},
+	{
+		"id": "30",
+		"question": "When is Anzac Day commemorated?",
+		"options": [
+			"January 26",
+			"April 25",
+			"July 1",
+			"November 11"
+		],
+		"correct": "April 25"
+	},
+	{
+		"id": "31",
+		"question": "What does Anzac Day remember?",
+		"options": [
+			"Federation",
+			"First Fleet arrival",
+			"Australians in wars",
+			"Gold rush"
+		],
+		"correct": "Australians in wars"
+	},
+	{
+		"id": "32",
+		"question": "What is the official flag of Australia?",
+		"options": [
+			"Australian Aboriginal Flag",
+			"Torres Strait Islander Flag",
+			"Australian National Flag",
+			"Union Jack"
+		],
+		"correct": "Australian National Flag"
+	},
+	{
+		"id": "33",
+		"question": "What does the Union Jack on the Australian flag represent?",
+		"options": [
+			"Southern Cross",
+			"British settlement",
+			"Commonwealth",
+			"Indigenous heritage"
+		],
+		"correct": "British settlement"
+	},
+	{
+		"id": "34",
+		"question": "How many points does the Commonwealth Star have?",
+		"options": [
+			"Five",
+			"Six",
+			"Seven",
+			"Eight"
+		],
+		"correct": "Seven"
+	},
+	{
+		"id": "35",
+		"question": "What does the Southern Cross represent on the flag?",
+		"options": [
+			"British heritage",
+			"Stars in southern sky",
+			"States",
+			"Indigenous peoples"
+		],
+		"correct": "Stars in southern sky"
+	},
+	{
+		"id": "36",
+		"question": "What color represents the Aboriginal peoples on their flag?",
+		"options": [
+			"Black",
+			"Red",
+			"Yellow",
+			"White"
+		],
+		"correct": "Black"
+	},
+	{
+		"id": "37",
+		"question": "What does the red on the Aboriginal Flag represent?",
+		"options": [
+			"Sun",
+			"Earth",
+			"People",
+			"Sky"
+		],
+		"correct": "Earth"
+	},
+	{
+		"id": "38",
+		"question": "What does the yellow circle on the Aboriginal Flag represent?",
+		"options": [
+			"Earth",
+			"Sun",
+			"People",
+			"Sky"
+		],
+		"correct": "Sun"
+	},
+	{
+		"id": "39",
+		"question": "What color on the Torres Strait Islander Flag represents the sea?",
+		"options": [
+			"Green",
+			"Blue",
+			"Black",
+			"White"
+		],
+		"correct": "Blue"
+	},
+	{
+		"id": "40",
+		"question": "What does the white star on the Torres Strait Islander Flag symbolize?",
+		"options": [
+			"Peace",
+			"Island groups",
+			"Land",
+			"Sea"
+		],
+		"correct": "Island groups"
+	},
+	{
+		"id": "41",
+		"question": "What is the official symbol of the Commonwealth of Australia?",
+		"options": [
+			"Flag",
+			"Coat of Arms",
+			"Anthem",
+			"Wattle"
+		],
+		"correct": "Coat of Arms"
+	},
+	{
+		"id": "42",
+		"question": "What animals support the Coat of Arms?",
+		"options": [
+			"Kangaroo and emu",
+			"Koala and wombat",
+			"Dingo and eagle",
+			"Platypus and kookaburra"
+		],
+		"correct": "Kangaroo and emu"
+	},
+	{
+		"id": "43",
+		"question": "What is Australia’s national flower?",
+		"options": [
+			"Waratah",
+			"Golden Wattle",
+			"Kangaroo Paw",
+			"Eucalyptus"
+		],
+		"correct": "Golden Wattle"
+	},
+	{
+		"id": "44",
+		"question": "What are Australia’s national colors?",
+		"options": [
+			"Red and white",
+			"Green and gold",
+			"Blue and yellow",
+			"Black and red"
+		],
+		"correct": "Green and gold"
+	},
+	{
+		"id": "45",
+		"question": "What is Australia’s national gemstone?",
+		"options": [
+			"Diamond",
+			"Opal",
+			"Emerald",
+			"Sapphire"
+		],
+		"correct": "Opal"
+	},
+	{
+		"id": "46",
+		"question": "What is Australia’s national anthem?",
+		"options": [
+			"Waltzing Matilda",
+			"Advance Australia Fair",
+			"God Save the King",
+			"Sweet Caroline"
+		],
+		"correct": "Advance Australia Fair"
+	},
+	{
+		"id": "47",
+		"question": "What system of government does Australia have?",
+		"options": [
+			"Monarchy",
+			"Parliamentary democracy",
+			"Dictatorship",
+			"Theocracy"
+		],
+		"correct": "Parliamentary democracy"
+	},
+	{
+		"id": "48",
+		"question": "What does the Rule of Law mean?",
+		"options": [
+			"Government is above the law",
+			"All are equal under the law",
+			"Religious laws prevail",
+			"No laws apply"
+		],
+		"correct": "All are equal under the law"
+	},
+	{
+		"id": "49",
+		"question": "How do Australians prefer to resolve change?",
+		"options": [
+			"Violence",
+			"Peaceful discussion",
+			"Revolution",
+			"Ignoring laws"
+		],
+		"correct": "Peaceful discussion"
+	},
+	{
+		"id": "50",
+		"question": "What is a core value underpinning freedom of speech?",
+		"options": [
+			"Censorship",
+			"Democracy",
+			"Violence",
+			"Inequality"
+		],
+		"correct": "Democracy"
+	},
+	{
+		"id": "51",
+		"question": "What must freedom of speech always respect?",
+		"options": [
+			"Religious rules",
+			"Australian laws",
+			"Personal opinions",
+			"Foreign laws"
+		],
+		"correct": "Australian laws"
+	},
+	{
+		"id": "52",
+		"question": "What does freedom of association allow?",
+		"options": [
+			"Forced membership",
+			"Joining legal groups",
+			"Breaking laws",
+			"Religious rule"
+		],
+		"correct": "Joining legal groups"
+	},
+	{
+		"id": "53",
+		"question": "Does Australia have an official religion?",
+		"options": [
+			"Yes, Christianity",
+			"Yes, Islam",
+			"No",
+			"Yes, Buddhism"
+		],
+		"correct": "No"
+	},
+	{
+		"id": "54",
+		"question": "What prevails if a religious practice conflicts with Australian law?",
+		"options": [
+			"Religious practice",
+			"Australian law",
+			"Personal choice",
+			"International law"
+		],
+		"correct": "Australian law"
+	},
+	{
+		"id": "55",
+		"question": "What is illegal regarding gender discrimination?",
+		"options": [
+			"Equal treatment",
+			"Treating people differently",
+			"Promoting equality",
+			"Fair hiring"
+		],
+		"correct": "Treating people differently"
+	},
+	{
+		"id": "56",
+		"question": "What does ‘fair go’ mean in Australia?",
+		"options": [
+			"Class privilege",
+			"Equal opportunity",
+			"Wealth advantage",
+			"Gender bias"
+		],
+		"correct": "Equal opportunity"
+	},
+	{
+		"id": "57",
+		"question": "Who must obey Australian laws?",
+		"options": [
+			"Only citizens",
+			"Everyone in Australia",
+			"Only migrants",
+			"Only police"
+		],
+		"correct": "Everyone in Australia"
+	},
+	{
+		"id": "58",
+		"question": "What is compulsory for citizens aged 18 and over?",
+		"options": [
+			"Military service",
+			"Voting",
+			"Jury service",
+			"Paying taxes"
+		],
+		"correct": "Voting"
+	},
+	{
+		"id": "59",
+		"question": "What might citizens be called to do in a court case?",
+		"options": [
+			"Serve on a jury",
+			"Make laws",
+			"Judge cases",
+			"Arrest people"
+		],
+		"correct": "Serve on a jury"
+	},
+	{
+		"id": "60",
+		"question": "What job can citizens apply for in the government?",
+		"options": [
+			"Private sector only",
+			"Public Service",
+			"Foreign service",
+			"Religious leadership"
+		],
+		"correct": "Public Service"
+	},
+	{
+		"id": "61",
+		"question": "Who can seek election to parliament?",
+		"options": [
+			"Anyone",
+			"Citizens over 18",
+			"Foreign nationals",
+			"Minors"
+		],
+		"correct": "Citizens over 18"
+	},
+	{
+		"id": "62",
+		"question": "What document allows citizens to travel overseas?",
+		"options": [
+			"Driver’s license",
+			"Passport",
+			"Birth certificate",
+			"Visa"
+		],
+		"correct": "Passport"
+	},
+	{
+		"id": "63",
+		"question": "Who provides consular assistance overseas?",
+		"options": [
+			"Local police",
+			"Australian officials",
+			"UN",
+			"Religious leaders"
+		],
+		"correct": "Australian officials"
+	},
+	{
+		"id": "64",
+		"question": "How do citizens have a say in government?",
+		"options": [
+			"Protesting",
+			"Voting",
+			"Writing laws",
+			"Judging cases"
+		],
+		"correct": "Voting"
+	},
+	{
+		"id": "65",
+		"question": "What agency conducts federal elections?",
+		"options": [
+			"Parliament",
+			"Australian Electoral Commission",
+			"Police",
+			"High Court"
+		],
+		"correct": "Australian Electoral Commission"
+	},
+	{
+		"id": "66",
+		"question": "What is voting in Australia?",
+		"options": [
+			"Optional",
+			"Compulsory",
+			"By invitation",
+			"Only for leaders"
+		],
+		"correct": "Compulsory"
+	},
+	{
+		"id": "67",
+		"question": "How are votes cast in Australian elections?",
+		"options": [
+			"Public vote",
+			"Secret ballot",
+			"Online only",
+			"Mail only"
+		],
+		"correct": "Secret ballot"
+	},
+	{
+		"id": "68",
+		"question": "When did Australia become a federation?",
+		"options": [
+			"1788",
+			"1851",
+			"1901",
+			"1967"
+		],
+		"correct": "1901"
+	},
+	{
+		"id": "69",
+		"question": "What is the legal document for Australia’s government?",
+		"options": [
+			"Bill of Rights",
+			"Constitution",
+			"Magna Carta",
+			"Treaty"
+		],
+		"correct": "Constitution"
+	},
+	{
+		"id": "70",
+		"question": "What does the Constitution establish?",
+		"options": [
+			"Monarchy",
+			"Parliament",
+			"Dictatorship",
+			"Theocracy"
+		],
+		"correct": "Parliament"
+	},
+	{
+		"id": "71",
+		"question": "Who can change the Australian Constitution?",
+		"options": [
+			"The King",
+			"The people",
+			"Parliament only",
+			"Judges"
+		],
+		"correct": "The people"
+	},
+	{
+		"id": "72",
+		"question": "What is required to change the Constitution?",
+		"options": [
+			"Simple majority",
+			"Double majority",
+			"King’s approval",
+			"Court ruling"
+		],
+		"correct": "Double majority"
+	},
+	{
+		"id": "73",
+		"question": "What power does Parliament have?",
+		"options": [
+			"Executive",
+			"Legislative",
+			"Judicial",
+			"Military"
+		],
+		"correct": "Legislative"
+	},
+	{
+		"id": "74",
+		"question": "Who exercises executive power?",
+		"options": [
+			"Judges",
+			"Prime Minister",
+			"Senators",
+			"Police"
+		],
+		"correct": "Prime Minister"
+	},
+	{
+		"id": "75",
+		"question": "Who has judicial power in Australia?",
+		"options": [
+			"Parliament",
+			"Judges",
+			"Governor-General",
+			"Police"
+		],
+		"correct": "Judges"
+	},
+	{
+		"id": "76",
+		"question": "Who is Australia’s Head of State?",
+		"options": [
+			"Prime Minister",
+			"Governor-General",
+			"King Charles III",
+			"President"
+		],
+		"correct": "King Charles III"
+	},
+	{
+		"id": "77",
+		"question": "Who represents the King in Australia?",
+		"options": [
+			"Prime Minister",
+			"Governor-General",
+			"Chief Justice",
+			"Mayor"
+		],
+		"correct": "Governor-General"
+	},
+	{
+		"id": "78",
+		"question": "What type of monarchy is Australia?",
+		"options": [
+			"Absolute",
+			"Constitutional",
+			"Ceremonial",
+			"Elective"
+		],
+		"correct": "Constitutional"
+	},
+	{
+		"id": "79",
+		"question": "What is the role of the Governor-General in law-making?",
+		"options": [
+			"Writes laws",
+			"Signs bills into law",
+			"Vetoes laws",
+			"Judges laws"
+		],
+		"correct": "Signs bills into law"
+	},
+	{
+		"id": "80",
+		"question": "Who is the leader of the Australian Government?",
+		"options": [
+			"Governor-General",
+			"Prime Minister",
+			"King",
+			"Chief Justice"
+		],
+		"correct": "Prime Minister"
+	},
+	{
+		"id": "81",
+		"question": "What is the leader of a state government called?",
+		"options": [
+			"Premier",
+			"Chief Minister",
+			"Mayor",
+			"Governor"
+		],
+		"correct": "Premier"
+	},
+	{
+		"id": "82",
+		"question": "What is the leader of a territory government called?",
+		"options": [
+			"Premier",
+			"Chief Minister",
+			"Mayor",
+			"Governor"
+		],
+		"correct": "Chief Minister"
+	},
+	{
+		"id": "83",
+		"question": "What is the lower house of Parliament called?",
+		"options": [
+			"Senate",
+			"House of Representatives",
+			"High Court",
+			"Cabinet"
+		],
+		"correct": "House of Representatives"
+	},
+	{
+		"id": "84",
+		"question": "What is the upper house of Parliament called?",
+		"options": [
+			"House of Representatives",
+			"Senate",
+			"High Court",
+			"Cabinet"
+		],
+		"correct": "Senate"
+	},
+	{
+		"id": "85",
+		"question": "How many senators does each state elect?",
+		"options": [
+			"2",
+			"6",
+			"12",
+			"10"
+		],
+		"correct": "12"
+	},
+	{
+		"id": "86",
+		"question": "How many senators does each territory elect?",
+		"options": [
+			"2",
+			"12",
+			"6",
+			"10"
+		],
+		"correct": "2"
+	},
+	{
+		"id": "87",
+		"question": "Who represents the King in each state?",
+		"options": [
+			"Premier",
+			"Governor",
+			"Chief Minister",
+			"Mayor"
+		],
+		"correct": "Governor"
+	},
+	{
+		"id": "88",
+		"question": "What is the leader of a local government called?",
+		"options": [
+			"Mayor",
+			"Premier",
+			"Governor",
+			"Senator"
+		],
+		"correct": "Mayor"
+	},
+	{
+		"id": "89",
+		"question": "What is responsible for taxation?",
+		"options": [
+			"State government",
+			"Local government",
+			"Australian Government",
+			"Police"
+		],
+		"correct": "Australian Government"
+	},
+	{
+		"id": "90",
+		"question": "What is responsible for schools?",
+		"options": [
+			"Australian Government",
+			"State government",
+			"Local government",
+			"Courts"
+		],
+		"correct": "State government"
+	},
+	{
+		"id": "91",
+		"question": "What is responsible for rubbish collection?",
+		"options": [
+			"State government",
+			"Local government",
+			"Australian Government",
+			"Police"
+		],
+		"correct": "Local government"
+	},
+	{
+		"id": "92",
+		"question": "What is a group with similar governing ideas called?",
+		"options": [
+			"Coalition",
+			"Political party",
+			"Cabinet",
+			"Jury"
+		],
+		"correct": "Political party"
+	},
+	{
+		"id": "93",
+		"question": "What forms the government after an election?",
+		"options": [
+			"Minority party",
+			"Majority party",
+			"Opposition",
+			"Independents"
+		],
+		"correct": "Majority party"
+	},
+	{
+		"id": "94",
+		"question": "What is a proposal for a new law called?",
+		"options": [
+			"Act",
+			"Bill",
+			"Referendum",
+			"Pledge"
+		],
+		"correct": "Bill"
+	},
+	{
+		"id": "95",
+		"question": "What must the Governor-General give to make a law?",
+		"options": [
+			"Veto",
+			"Royal Assent",
+			"Signature",
+			"Debate"
+		],
+		"correct": "Royal Assent"
+	},
+	{
+		"id": "96",
+		"question": "Who decides if someone has broken the law?",
+		"options": [
+			"Police",
+			"Courts",
+			"Parliament",
+			"Governor-General"
+		],
+		"correct": "Courts"
+	},
+	{
+		"id": "97",
+		"question": "Who is the highest authority in a court?",
+		"options": [
+			"Jury",
+			"Judge",
+			"Police",
+			"Lawyer"
+		],
+		"correct": "Judge"
+	},
+	{
+		"id": "98",
+		"question": "What group decides guilt in some court cases?",
+		"options": [
+			"Judge",
+			"Jury",
+			"Police",
+			"Parliament"
+		],
+		"correct": "Jury"
+	},
+	{
+		"id": "99",
+		"question": "What is the national police force called?",
+		"options": [
+			"State Police",
+			"Australian Federal Police",
+			"Local Police",
+			"National Guard"
+		],
+		"correct": "Australian Federal Police"
+	},
+	{
+		"id": "100",
+		"question": "What is a serious crime in Australia?",
+		"options": [
+			"Littering",
+			"Murder",
+			"Jaywalking",
+			"Speeding"
+		],
+		"correct": "Murder"
+	},
+	{
+		"id": "101",
+		"question": "What is illegal within a marriage?",
+		"options": [
+			"Divorce",
+			"Domestic violence",
+			"Disagreement",
+			"Voting"
+		],
+		"correct": "Domestic violence"
+	},
+	{
+		"id": "102",
+		"question": "What must everyone wear in a car?",
+		"options": [
+			"Helmet",
+			"Seatbelt",
+			"Gloves",
+			"Sunglasses"
+		],
+		"correct": "Seatbelt"
+	},
+	{
+		"id": "103",
+		"question": "What is a core value of Australian society?",
+		"options": [
+			"Wealth",
+			"Freedom",
+			"Power",
+			"Religion"
+		],
+		"correct": "Freedom"
+	},
+	{
+		"id": "104",
+		"question": "What ensures a peaceful society in Australia?",
+		"options": [
+			"Dictatorship",
+			"Rule of Law",
+			"Religious rule",
+			"Anarchy"
+		],
+		"correct": "Rule of Law"
+	},
+	{
+		"id": "105",
+		"question": "Who makes laws in a parliamentary democracy?",
+		"options": [
+			"King",
+			"Elected parliament",
+			"Judges",
+			"Police"
+		],
+		"correct": "Elected parliament"
+	},
+	{
+		"id": "106",
+		"question": "What is a key feature of freedom of speech?",
+		"options": [
+			"Censorship",
+			"Expressing ideas",
+			"Violence",
+			"Silence"
+		],
+		"correct": "Expressing ideas"
+	},
+	{
+		"id": "107",
+		"question": "What must protests respect?",
+		"options": [
+			"Foreign laws",
+			"Australian laws",
+			"Religious rules",
+			"Personal choice"
+		],
+		"correct": "Australian laws"
+	},
+	{
+		"id": "108",
+		"question": "What does freedom of religion mean?",
+		"options": [
+			"Mandatory religion",
+			"Choose any religion",
+			"No religion allowed",
+			"One official religion"
+		],
+		"correct": "Choose any religion"
+	},
+	{
+		"id": "109",
+		"question": "What is illegal under Australian law regarding marriage?",
+		"options": [
+			"Divorce",
+			"Polygamy",
+			"Voting",
+			"Education"
+		],
+		"correct": "Polygamy"
+	},
+	{
+		"id": "110",
+		"question": "Who has equal rights under Australian law?",
+		"options": [
+			"Men only",
+			"Women only",
+			"Men and women",
+			"Leaders only"
+		],
+		"correct": "Men and women"
+	},
+	{
+		"id": "111",
+		"question": "What should success be based on?",
+		"options": [
+			"Wealth",
+			"Hard work",
+			"Gender",
+			"Background"
+		],
+		"correct": "Hard work"
+	},
+	{
+		"id": "112",
+		"question": "What is illegal in personal relationships?",
+		"options": [
+			"Disagreement",
+			"Violence",
+			"Divorce",
+			"Discussion"
+		],
+		"correct": "Violence"
+	},
+	{
+		"id": "113",
+		"question": "What is a tradition of community service?",
+		"options": [
+			"Tax evasion",
+			"Volunteering",
+			"Isolation",
+			"Competition"
+		],
+		"correct": "Volunteering"
+	},
+	{
+		"id": "114",
+		"question": "What reflects mateship in Australia?",
+		"options": [
+			"Competing",
+			"Helping others",
+			"Ignoring needs",
+			"Wealth accumulation"
+		],
+		"correct": "Helping others"
+	},
+	{
+		"id": "115",
+		"question": "What is the unifying language of Australia?",
+		"options": [
+			"French",
+			"English",
+			"Mandarin",
+			"Spanish"
+		],
+		"correct": "English"
+	},
+	{
+		"id": "116",
+		"question": "What should citizens report to protect society?",
+		"options": [
+			"Favorite songs",
+			"Serious crimes",
+			"Minor disputes",
+			"Daily routine"
+		],
+		"correct": "Serious crimes"
+	},
+	{
+		"id": "117",
+		"question": "What is illegal online in Australia?",
+		"options": [
+			"Posting photos",
+			"Cyber abuse",
+			"Emailing friends",
+			"Browsing"
+		],
+		"correct": "Cyber abuse"
+	},
+	{
+		"id": "118",
+		"question": "What do citizens pledge loyalty to?",
+		"options": [
+			"The King",
+			"Australia",
+			"Foreign nations",
+			"Political parties"
+		],
+		"correct": "Australia"
+	},
+	{
+		"id": "119",
+		"question": "How old are Indigenous cultures estimated to be?",
+		"options": [
+			"10,000 years",
+			"65,000 years",
+			"1,000 years",
+			"200 years"
+		],
+		"correct": "65,000 years"
+	},
+	{
+		"id": "120",
+		"question": "What was the population of Australia in 1901, excluding Indigenous peoples?",
+		"options": [
+			"One million",
+			"Four million",
+			"Ten million",
+			"Five hundred thousand"
+		],
+		"correct": "Four million"
+	},
+	{
+		"id": "121",
+		"question": "What is a famous icon in Victoria?",
+		"options": [
+			"Opera House",
+			"Melbourne Cricket Ground",
+			"Uluru",
+			"Ningaloo Coast"
+		],
+		"correct": "Melbourne Cricket Ground"
+	},
+	{
+		"id": "122",
+		"question": "What is a famous site in Tasmania?",
+		"options": [
+			"Great Barrier Reef",
+			"Cradle Mountain",
+			"Uluru",
+			"Barossa Valley"
+		],
+		"correct": "Cradle Mountain"
+	},
+	{
+		"id": "123",
+		"question": "What ceremony can open an event?",
+		"options": [
+			"Pledge",
+			"Smoking Ceremony",
+			"Anthem",
+			"Speech"
+		],
+		"correct": "Smoking Ceremony"
+	},
+	{
+		"id": "124",
+		"question": "Who announces the Australian of the Year Awards?",
+		"options": [
+			"Governor-General",
+			"Prime Minister",
+			"King",
+			"Mayor"
+		],
+		"correct": "Prime Minister"
+	},
+	{
+		"id": "125",
+		"question": "Where did the Anzac landing occur?",
+		"options": [
+			"Sydney",
+			"Gallipoli",
+			"Canberra",
+			"Melbourne"
+		],
+		"correct": "Gallipoli"
+	},
+	{
+		"id": "126",
+		"question": "What year did the Anzac landing happen?",
+		"options": [
+			"1915",
+			"1901",
+			"1788",
+			"1967"
+		],
+		"correct": "1915"
+	},
+	{
+		"id": "127",
+		"question": "What does the black on the Aboriginal Flag symbolize?",
+		"options": [
+			"Earth",
+			"Aboriginal peoples",
+			"Sun",
+			"Sky"
+		],
+		"correct": "Aboriginal peoples"
+	},
+	{
+		"id": "128",
+		"question": "What does the green on the Torres Strait Islander Flag represent?",
+		"options": [
+			"Land",
+			"Sea",
+			"People",
+			"Peace"
+		],
+		"correct": "Land"
+	},
+	{
+		"id": "129",
+		"question": "What does the shield in the Coat of Arms represent?",
+		"options": [
+			"States and federation",
+			"Kangaroo",
+			"Emu",
+			"Wattle"
+		],
+		"correct": "States and federation"
+	},
+	{
+		"id": "130",
+		"question": "What season does golden wattle bloom in?",
+		"options": [
+			"Summer",
+			"Spring",
+			"Autumn",
+			"Winter"
+		],
+		"correct": "Spring"
+	},
+	{
+		"id": "131",
+		"question": "What belief supports equality regardless of background?",
+		"options": [
+			"Freedom",
+			"Respect",
+			"Violence",
+			"Censorship"
+		],
+		"correct": "Respect"
+	},
+	{
+		"id": "132",
+		"question": "What public holiday is on Good Friday?",
+		"options": [
+			"Australia Day",
+			"Christian holiday",
+			"Anzac Day",
+			"New Year"
+		],
+		"correct": "Christian holiday"
+	},
+	{
+		"id": "133",
+		"question": "What can citizens defend if needed?",
+		"options": [
+			"Foreign nations",
+			"Australia",
+			"Personal property",
+			"Religious sites"
+		],
+		"correct": "Australia"
+	},
+	{
+		"id": "134",
+		"question": "What can citizens apply for their children born overseas?",
+		"options": [
+			"Visa",
+			"Citizenship by descent",
+			"Passport only",
+			"Education"
+		],
+		"correct": "Citizenship by descent"
+	},
+	{
+		"id": "135",
+		"question": "What maintains the electoral roll?",
+		"options": [
+			"Parliament",
+			"Australian Electoral Commission",
+			"Police",
+			"Courts"
+		],
+		"correct": "Australian Electoral Commission"
+	},
+	{
+		"id": "136",
+		"question": "What was a difficulty before Federation?",
+		"options": [
+			"Voting",
+			"Trade between colonies",
+			"Education",
+			"Healthcare"
+		],
+		"correct": "Trade between colonies"
+	},
+	{
+		"id": "137",
+		"question": "What court interprets Australian laws?",
+		"options": [
+			"Senate",
+			"High Court",
+			"Local court",
+			"House of Representatives"
+		],
+		"correct": "High Court"
+	},
+	{
+		"id": "138",
+		"question": "Who appoints the Governor-General?",
+		"options": [
+			"Prime Minister",
+			"The King",
+			"Parliament",
+			"People"
+		],
+		"correct": "The King"
+	},
+	{
+		"id": "139",
+		"question": "What is the Governor-General’s military role?",
+		"options": [
+			"Soldier",
+			"Commander-in-Chief",
+			"General",
+			"Advisor"
+		],
+		"correct": "Commander-in-Chief"
+	},
+	{
+		"id": "140",
+		"question": "What is another name for the House of Representatives?",
+		"options": [
+			"Upper House",
+			"People’s House",
+			"States’ House",
+			"Review House"
+		],
+		"correct": "People’s House"
+	},
+	{
+		"id": "141",
+		"question": "What is another name for the Senate?",
+		"options": [
+			"Lower House",
+			"States’ House",
+			"People’s House",
+			"Cabinet"
+		],
+		"correct": "States’ House"
+	},
+	{
+		"id": "142",
+		"question": "What represents the King in the Northern Territory?",
+		"options": [
+			"Governor",
+			"Administrator",
+			"Premier",
+			"Mayor"
+		],
+		"correct": "Administrator"
+	},
+	{
+		"id": "143",
+		"question": "What does the Australian Government manage?",
+		"options": [
+			"Schools",
+			"Immigration",
+			"Local roads",
+			"Police"
+		],
+		"correct": "Immigration"
+	},
+	{
+		"id": "144",
+		"question": "What does the Opposition do after an election?",
+		"options": [
+			"Forms the government",
+			"Forms the opposition",
+			"Disbands",
+			"Rules states"
+		],
+		"correct": "Forms the opposition"
+	},
+	{
+		"id": "145",
+		"question": "Who leads the Opposition?",
+		"options": [
+			"Prime Minister",
+			"Leader of the Opposition",
+			"Governor-General",
+			"King"
+		],
+		"correct": "Leader of the Opposition"
+	},
+	{
+		"id": "146",
+		"question": "What group makes key government decisions?",
+		"options": [
+			"Senate",
+			"Cabinet",
+			"Jury",
+			"Police"
+		],
+		"correct": "Cabinet"
+	},
+	{
+		"id": "147",
+		"question": "Who investigates federal crimes?",
+		"options": [
+			"State Police",
+			"Australian Federal Police",
+			"Local Police",
+			"Army"
+		],
+		"correct": "Australian Federal Police"
+	},
+	{
+		"id": "148",
+		"question": "What is illegal to offer a police officer?",
+		"options": [
+			"Gift",
+			"Bribe",
+			"Advice",
+			"Help"
+		],
+		"correct": "Bribe"
+	},
+	{
+		"id": "149",
+		"question": "What is the age of sexual consent in most Australian states?",
+		"options": [
+			"14",
+			"16",
+			"18",
+			"20"
+		],
+		"correct": "16"
+	},
+	{
+		"id": "150",
+		"question": "What ensures fairness in Australian society?",
+		"options": [
+			"Wealth",
+			"Rule of Law",
+			"Power",
+			"Religion"
+		],
+		"correct": "Rule of Law"
+	},
+	{
+		"id": "151",
+		"question": "Who votes for representatives in parliament?",
+		"options": [
+			"King",
+			"Citizens",
+			"Judges",
+			"Foreigners"
+		],
+		"correct": "Citizens"
+	},
+	{
+		"id": "152",
+		"question": "What is tolerance of peaceful protest part of?",
+		"options": [
+			"Dictatorship",
+			"Democracy",
+			"Monarchy",
+			"Theocracy"
+		],
+		"correct": "Democracy"
+	},
+	{
+		"id": "153",
+		"question": "What is illegal in religious practices?",
+		"options": [
+			"Prayer",
+			"Forced marriage",
+			"Fasting",
+			"Charity"
+		],
+		"correct": "Forced marriage"
+	},
+	{
+		"id": "154",
+		"question": "Who can marry under Australian law?",
+		"options": [
+			"Only men and women",
+			"Two consenting adults",
+			"Children",
+			"Multiple spouses"
+		],
+		"correct": "Two consenting adults"
+	},
+	{
+		"id": "155",
+		"question": "Who can join the Australian Defence Force?",
+		"options": [
+			"Men only",
+			"Women only",
+			"Men and women",
+			"Foreigners only"
+		],
+		"correct": "Men and women"
+	},
+	{
+		"id": "156",
+		"question": "What is acceptable in Australia?",
+		"options": [
+			"Violence",
+			"Divorce",
+			"Polygamy",
+			"Discrimination"
+		],
+		"correct": "Divorce"
+	},
+	{
+		"id": "157",
+		"question": "What should jobs be based on?",
+		"options": [
+			"Gender",
+			"Skills",
+			"Wealth",
+			"Ethnicity"
+		],
+		"correct": "Skills"
+	},
+	{
+		"id": "158",
+		"question": "What is against the law in Australia?",
+		"options": [
+			"Free speech",
+			"Racism",
+			"Voting",
+			"Education"
+		],
+		"correct": "Racism"
+	},
+	{
+		"id": "159",
+		"question": "What should citizens support?",
+		"options": [
+			"Crime",
+			"Police actions",
+			"Violence",
+			"Disorder"
+		],
+		"correct": "Police actions"
+	},
+	{
+		"id": "160",
+		"question": "What is a tradition of community service?",
+		"options": [
+			"Tax evasion",
+			"Volunteering",
+			"Isolation",
+			"Competition"
+		],
+		"correct": "Volunteering"
+	},
+	{
+		"id": "161",
+		"question": "What helps integration into Australian society?",
+		"options": [
+			"Silence",
+			"English",
+			"Foreign languages only",
+			"Isolation"
+		],
+		"correct": "English"
+	},
+	{
+		"id": "162",
+		"question": "What should be reported to the police?",
+		"options": [
+			"Favorite book",
+			"Child abuse",
+			"Weather",
+			"Daily routine"
+		],
+		"correct": "Child abuse"
+	},
+	{
+		"id": "163",
+		"question": "What is dual citizenship?",
+		"options": [
+			"Single citizenship",
+			"Holding multiple citizenships",
+			"No citizenship",
+			"Temporary citizenship"
+		],
+		"correct": "Holding multiple citizenships"
+	},
+	{
+		"id": "164",
+		"question": "What must Australian citizens follow overseas?",
+		"options": [
+			"No laws",
+			"Some Australian laws",
+			"Only foreign laws",
+			"Religious laws"
+		],
+		"correct": "Some Australian laws"
+	},
+	{
+		"id": "165",
+		"question": "What damaged Australia in 2019-20?",
+		"options": [
+			"Floods",
+			"Bushfires",
+			"Earthquakes",
+			"Tornadoes"
+		],
+		"correct": "Bushfires"
+	},
+	{
+		"id": "166",
+		"question": "What is the largest city in Australia?",
+		"options": [
+			"Sydney",
+			"Melbourne",
+			"Brisbane",
+			"Perth"
+		],
+		"correct": "Sydney"
+	},
+	{
+		"id": "167",
+		"question": "What is a key feature in Canberra?",
+		"options": [
+			"Opera House",
+			"Parliament House",
+			"Harbour Bridge",
+			"Uluru"
+		],
+		"correct": "Parliament House"
+	},
+	{
+		"id": "168",
+		"question": "What marks the biggest annual public holiday?",
+		"options": [
+			"Anzac Day",
+			"Australia Day",
+			"Christmas",
+			"Easter"
+		],
+		"correct": "Australia Day"
+	},
+	{
+		"id": "169",
+		"question": "What war is remembered on Anzac Day?",
+		"options": [
+			"World War II",
+			"World War I",
+			"Vietnam War",
+			"Korean War"
+		],
+		"correct": "World War I"
+	},
+	{
+		"id": "170",
+		"question": "What does the Commonwealth Star represent?",
+		"options": [
+			"Southern Cross",
+			"States and territories",
+			"British heritage",
+			"Aboriginal peoples"
+		],
+		"correct": "States and territories"
+	},
+	{
+		"id": "171",
+		"question": "What does the white headdress on the Torres Strait Islander Flag symbolize?",
+		"options": [
+			"Peace",
+			"All Torres Strait Islanders",
+			"Land",
+			"Sea"
+		],
+		"correct": "All Torres Strait Islanders"
+	},
+	{
+		"id": "172",
+		"question": "What does the opal represent in Aboriginal legend?",
+		"options": [
+			"Water",
+			"Rainbow colors",
+			"Fire",
+			"Earth"
+		],
+		"correct": "Rainbow colors"
+	},
+	{
+		"id": "173",
+		"question": "What heritage influences Australia’s democracy?",
+		"options": [
+			"Islamic",
+			"Judaeo-Christian",
+			"Buddhist",
+			"Hindu"
+		],
+		"correct": "Judaeo-Christian"
+	},
+	{
+		"id": "174",
+		"question": "What can citizens do in federal elections?",
+		"options": [
+			"Run the election",
+			"Vote",
+			"Make laws",
+			"Judge"
+		],
+		"correct": "Vote"
+	},
+	{
+		"id": "175",
+		"question": "What body was established by the Constitution in 1901?",
+		"options": [
+			"Police",
+			"Parliament",
+			"Courts",
+			"Army"
+		],
+		"correct": "Parliament"
+	},
+	{
+		"id": "176",
+		"question": "What separates government powers?",
+		"options": [
+			"King",
+			"Constitution",
+			"Police",
+			"Judges"
+		],
+		"correct": "Constitution"
+	},
+	{
+		"id": "177",
+		"question": "Who advises the King to appoint the Governor-General?",
+		"options": [
+			"Parliament",
+			"Prime Minister",
+			"People",
+			"Judges"
+		],
+		"correct": "Prime Minister"
+	},
+	{
+		"id": "178",
+		"question": "What starts the process for a federal election?",
+		"options": [
+			"Prime Minister",
+			"Governor-General",
+			"King",
+			"Senate"
+		],
+		"correct": "Governor-General"
+	},
+	{
+		"id": "179",
+		"question": "How many members are in the House of Representatives?",
+		"options": [
+			"76",
+			"Over 150",
+			"12",
+			"50"
+		],
+		"correct": "Over 150"
+	},
+	{
+		"id": "180",
+		"question": "How many senators are there in total?",
+		"options": [
+			"150",
+			"76",
+			"12",
+			"2"
+		],
+		"correct": "76"
+	},
+	{
+		"id": "181",
+		"question": "What are areas divided into for local government?",
+		"options": [
+			"States",
+			"Councils",
+			"Territories",
+			"Electorates"
+		],
+		"correct": "Councils"
+	},
+	{
+		"id": "182",
+		"question": "What manages the tax system?",
+		"options": [
+			"Police",
+			"Australian Taxation Office",
+			"Courts",
+			"Senate"
+		],
+		"correct": "Australian Taxation Office"
+	},
+	{
+		"id": "183",
+		"question": "What investigates crimes against national security?",
+		"options": [
+			"State Police",
+			"Australian Federal Police",
+			"Local Police",
+			"Army"
+		],
+		"correct": "Australian Federal Police"
+	},
+	{
+		"id": "184",
+		"question": "What is a penalty for serious crimes?",
+		"options": [
+			"Fine",
+			"Jail",
+			"Warning",
+			"Community service"
+		],
+		"correct": "Jail"
+	},
+	{
+		"id": "185",
+		"question": "What must drivers have to drive legally?",
+		"options": [
+			"Passport",
+			"Driver’s licence",
+			"Birth certificate",
+			"Visa"
+		],
+		"correct": "Driver’s licence"
+	},
+	{
+		"id": "186",
+		"question": "What is a key value shaping Australia?",
+		"options": [
+			"Wealth",
+			"Equality",
+			"Power",
+			"Religion"
+		],
+		"correct": "Equality"
+	},
+	{
+		"id": "187",
+		"question": "What is illegal regarding protests?",
+		"options": [
+			"Peaceful gathering",
+			"Violence",
+			"Speech",
+			"Writing"
+		],
+		"correct": "Violence"
+	},
+	{
+		"id": "188",
+		"question": "What supported bushfire relief in 2019-20?",
+		"options": [
+			"Foreign aid",
+			"Multicultural communities",
+			"Military",
+			"Police"
+		],
+		"correct": "Multicultural communities"
+	},
+	{
+		"id": "189",
+		"question": "What is the smallest state by land area?",
+		"options": [
+			"Tasmania",
+			"Victoria",
+			"Queensland",
+			"South Australia"
+		],
+		"correct": "Tasmania"
+	},
+	{
+		"id": "190",
+		"question": "What is a national institution in Canberra?",
+		"options": [
+			"Opera House",
+			"Parliament House",
+			"Harbour Bridge",
+			"Uluru"
+		],
+		"correct": "Parliament House"
+	},
+	{
+		"id": "191",
+		"question": "Who performs a Welcome to Country?",
+		"options": [
+			"Mayor",
+			"Indigenous custodian",
+			"Prime Minister",
+			"Judge"
+		],
+		"correct": "Indigenous custodian"
+	},
+	{
+		"id": "192",
+		"question": "What is the official flag’s background color?",
+		"options": [
+			"Red",
+			"Blue",
+			"Green",
+			"Yellow"
+		],
+		"correct": "Blue"
+	},
+	{
+		"id": "193",
+		"question": "What does the white on the Torres Strait Islander Flag represent?",
+		"options": [
+			"Peace",
+			"Land",
+			"Sea",
+			"People"
+		],
+		"correct": "Peace"
+	},
+	{
+		"id": "194",
+		"question": "What is the background flower of the Coat of Arms?",
+		"options": [
+			"Waratah",
+			"Golden Wattle",
+			"Flannel Flower",
+			"Banksia"
+		],
+		"correct": "Golden Wattle"
+	},
+	{
+		"id": "195",
+		"question": "What day is a public holiday for Easter Sunday?",
+		"options": [
+			"Australia Day",
+			"Christian holiday",
+			"Anzac Day",
+			"New Year"
+		],
+		"correct": "Christian holiday"
+	},
+	{
+		"id": "196",
+		"question": "What was a challenge before Federation?",
+		"options": [
+			"Education",
+			"Trade between colonies",
+			"Health",
+			"Communication"
+		],
+		"correct": "Trade between colonies"
+	},
+	{
+		"id": "197",
+		"question": "What is a major political party in Australia?",
+		"options": [
+			"Liberal Party",
+			"Communist Party",
+			"Royalist Party",
+			"Independent Party"
+		],
+		"correct": "Liberal Party"
+	},
+	{
+		"id": "198",
+		"question": "What is the penalty for not voting without a reason?",
+		"options": [
+			"Jail",
+			"Fine",
+			"Warning",
+			"Community service"
+		],
+		"correct": "Fine"
+	},
+	{
+		"id": "199",
+		"question": "What is the role of the Australian Electoral Commission?",
+		"options": [
+			"Make laws",
+			"Conduct elections",
+			"Judge cases",
+			"Arrest people"
+		],
+		"correct": "Conduct elections"
+	},
+	{
+		"id": "200",
+		"question": "What is a benefit funded by taxes?",
+		"options": [
+			"Private schools",
+			"Healthcare",
+			"Luxury cars",
+			"Foreign aid"
+		],
+		"correct": "Healthcare"
+	},
+	{
+		"id": "201",
+		"question": "What is the oldest continuous culture in the world?",
+		"options": [
+			"Chinese culture",
+			"Indigenous cultures",
+			"British culture",
+			"Roman culture"
+		],
+		"correct": "Indigenous cultures"
+	},
+	{
+		"id": "202",
+		"question": "What group arrived in Australia in large numbers after World War II?",
+		"options": [
+			"British settlers",
+			"Europeans",
+			"Chinese miners",
+			"American soldiers"
+		],
+		"correct": "Europeans"
+	},
+	{
+		"id": "203",
+		"question": "What is Sydney famous for besides the Harbour Bridge?",
+		"options": [
+			"Opera House",
+			"Great Barrier Reef",
+			"Uluru",
+			"Cradle Mountain"
+		],
+		"correct": "Opera House"
+	},
+	{
+		"id": "204",
+		"question": "What is a notable feature of Queensland’s coast?",
+		"options": [
+			"Desert",
+			"Great Barrier Reef",
+			"Mountains",
+			"Forests"
+		],
+		"correct": "Great Barrier Reef"
+	},
+	{
+		"id": "205",
+		"question": "What is a key landscape in Tasmania?",
+		"options": [
+			"Desert",
+			"Wilderness",
+			"Reef",
+			"Plains"
+		],
+		"correct": "Wilderness"
+	},
+	{
+		"id": "206",
+		"question": "What is a feature of the Northern Territory?",
+		"options": [
+			"Rainforests",
+			"Red desert",
+			"Beaches",
+			"Snow"
+		],
+		"correct": "Red desert"
+	},
+	{
+		"id": "207",
+		"question": "What can a Welcome to Country include?",
+		"options": [
+			"Voting",
+			"Smoking ceremony",
+			"Tax collection",
+			"Court ruling"
+		],
+		"correct": "Smoking ceremony"
+	},
+	{
+		"id": "208",
+		"question": "Who can deliver an Acknowledgement of Country?",
+		"options": [
+			"Only Indigenous people",
+			"Anyone",
+			"Only the Prime Minister",
+			"Only judges"
+		],
+		"correct": "Anyone"
+	},
+	{
+		"id": "209",
+		"question": "What is the anniversary celebrated on Australia Day?",
+		"options": [
+			"Federation",
+			"First Fleet arrival",
+			"Gold rush",
+			"Anzac landing"
+		],
+		"correct": "First Fleet arrival"
+	},
+	{
+		"id": "210",
+		"question": "What does the Australian of the Year Awards recognize?",
+		"options": [
+			"Sport achievements",
+			"Contributions to Australia",
+			"Wealth",
+			"Military service"
+		],
+		"correct": "Contributions to Australia"
+	},
+	{
+		"id": "211",
+		"question": "What does the blue on the Australian National Flag represent?",
+		"options": [
+			"Sky",
+			"British settlement",
+			"Ocean",
+			"Peace"
+		],
+		"correct": "British settlement"
+	},
+	{
+		"id": "212",
+		"question": "What does the black on the Torres Strait Islander Flag represent?",
+		"options": [
+			"Land",
+			"People",
+			"Sea",
+			"Peace"
+		],
+		"correct": "People"
+	},
+	{
+		"id": "213",
+		"question": "What is Australia’s national flower also known as?",
+		"options": [
+			"Golden Wattle",
+			"Waratah",
+			"Kangaroo Paw",
+			"Flannel Flower"
+		],
+		"correct": "Golden Wattle"
+	},
+	{
+		"id": "214",
+		"question": "What colors are used in Australian sports uniforms?",
+		"options": [
+			"Red and white",
+			"Green and gold",
+			"Blue and red",
+			"Black and yellow"
+		],
+		"correct": "Green and gold"
+	},
+	{
+		"id": "215",
+		"question": "What is the first line of the national anthem?",
+		"options": [
+			"Australians all let us rejoice",
+			"Beneath our radiant Southern Cross",
+			"Advance Australia Fair",
+			"We’ve golden soil"
+		],
+		"correct": "Australians all let us rejoice"
+	},
+	{
+		"id": "216",
+		"question": "What does parliamentary democracy rely on?",
+		"options": [
+			"King’s rule",
+			"Elected representatives",
+			"Religious leaders",
+			"Military"
+		],
+		"correct": "Elected representatives"
+	},
+	{
+		"id": "217",
+		"question": "What does the Rule of Law ensure?",
+		"options": [
+			"Government superiority",
+			"Equality under the law",
+			"Religious dominance",
+			"No penalties"
+		],
+		"correct": "Equality under the law"
+	},
+	{
+		"id": "218",
+		"question": "What do Australians reject as a way to change minds?",
+		"options": [
+			"Discussion",
+			"Violence",
+			"Persuasion",
+			"Voting"
+		],
+		"correct": "Violence"
+	},
+	{
+		"id": "219",
+		"question": "What principle supports respect for all individuals?",
+		"options": [
+			"Inequality",
+			"Rights and equality",
+			"Wealth",
+			"Power"
+		],
+		"correct": "Rights and equality"
+	},
+	{
+		"id": "220",
+		"question": "What can people criticize under freedom of speech?",
+		"options": [
+			"Government",
+			"Laws only",
+			"Police only",
+			"Judges only"
+		],
+		"correct": "Government"
+	},
+	{
+		"id": "221",
+		"question": "What must freedom of expression obey?",
+		"options": [
+			"Religious rules",
+			"Australian laws",
+			"Personal beliefs",
+			"Foreign laws"
+		],
+		"correct": "Australian laws"
+	},
+	{
+		"id": "222",
+		"question": "What can people join under freedom of association?",
+		"options": [
+			"Illegal groups",
+			"Legal organizations",
+			"Forced memberships",
+			"Secret societies"
+		],
+		"correct": "Legal organizations"
+	},
+	{
+		"id": "223",
+		"question": "What is Australia’s government in relation to religion?",
+		"options": [
+			"Christian",
+			"Secular",
+			"Islamic",
+			"Buddhist"
+		],
+		"correct": "Secular"
+	},
+	{
+		"id": "224",
+		"question": "What day is a public holiday tied to Christianity?",
+		"options": [
+			"Australia Day",
+			"Good Friday",
+			"Anzac Day",
+			"New Year"
+		],
+		"correct": "Good Friday"
+	},
+	{
+		"id": "225",
+		"question": "What protects against gender discrimination?",
+		"options": [
+			"Religious laws",
+			"Australian laws",
+			"Personal choice",
+			"Customs"
+		],
+		"correct": "Australian laws"
+	},
+	{
+		"id": "226",
+		"question": "What does equality of opportunity ensure?",
+		"options": [
+			"Class distinctions",
+			"Fair go",
+			"Wealth privilege",
+			"Gender bias"
+		],
+		"correct": "Fair go"
+	},
+	{
+		"id": "227",
+		"question": "What is a responsibility of citizenship?",
+		"options": [
+			"Ignoring laws",
+			"Obeying laws",
+			"Avoiding taxes",
+			"Skipping votes"
+		],
+		"correct": "Obeying laws"
+	},
+	{
+		"id": "228",
+		"question": "What privilege allows voting in elections?",
+		"options": [
+			"Citizenship",
+			"Residency",
+			"Wealth",
+			"Age"
+		],
+		"correct": "Citizenship"
+	},
+	{
+		"id": "229",
+		"question": "What can citizens apply for in the Defence Force?",
+		"options": [
+			"Jobs",
+			"Loans",
+			"Travel",
+			"Education"
+		],
+		"correct": "Jobs"
+	},
+	{
+		"id": "230",
+		"question": "What can citizens seek in parliament?",
+		"options": [
+			"Election",
+			"Judgment",
+			"Arrest",
+			"Taxation"
+		],
+		"correct": "Election"
+	},
+	{
+		"id": "231",
+		"question": "What is a privilege of citizenship overseas?",
+		"options": [
+			"Consular assistance",
+			"Foreign voting",
+			"Tax relief",
+			"Military aid"
+		],
+		"correct": "Consular assistance"
+	},
+	{
+		"id": "232",
+		"question": "What is a way to participate in society?",
+		"options": [
+			"Isolation",
+			"Volunteering",
+			"Breaking laws",
+			"Ignoring community"
+		],
+		"correct": "Volunteering"
+	},
+	{
+		"id": "233",
+		"question": "What is a government-funded service?",
+		"options": [
+			"Private healthcare",
+			"Social security",
+			"Luxury goods",
+			"Foreign travel"
+		],
+		"correct": "Social security"
+	},
+	{
+		"id": "234",
+		"question": "What agency collects taxes?",
+		"options": [
+			"Australian Taxation Office",
+			"Police",
+			"Courts",
+			"Senate"
+		],
+		"correct": "Australian Taxation Office"
+	},
+	{
+		"id": "235",
+		"question": "What was the population excluding Indigenous peoples in 1901?",
+		"options": [
+			"Four million",
+			"One million",
+			"Ten million",
+			"Five hundred thousand"
+		],
+		"correct": "Four million"
+	},
+	{
+		"id": "236",
+		"question": "What is a famous building in Melbourne?",
+		"options": [
+			"Opera House",
+			"Royal Exhibition Building",
+			"Harbour Bridge",
+			"Uluru"
+		],
+		"correct": "Royal Exhibition Building"
+	},
+	{
+		"id": "237",
+		"question": "What is a feature of Western Australia’s south-west?",
+		"options": [
+			"Desert",
+			"Wine regions",
+			"Rainforests",
+			"Mountains"
+		],
+		"correct": "Wine regions"
+	},
+	{
+		"id": "238",
+		"question": "What is a Torres Strait Islander cultural practice?",
+		"options": [
+			"Voting",
+			"Welcome to Country",
+			"Tax collection",
+			"Jury service"
+		],
+		"correct": "Welcome to Country"
+	},
+	{
+		"id": "239",
+		"question": "What is commemorated on 25 April?",
+		"options": [
+			"Federation",
+			"First Fleet",
+			"Anzac Day",
+			"Gold rush"
+		],
+		"correct": "Anzac Day"
+	},
+	{
+		"id": "240",
+		"question": "What does the blue on the Australian National Flag represent?",
+		"options": [
+			"Sky",
+			"British settlement",
+			"Ocean",
+			"Peace"
+		],
+		"correct": "British settlement"
+	},
+	{
+		"id": "241",
+		"question": "What does the black on the Torres Strait Islander Flag represent?",
+		"options": [
+			"Land",
+			"People",
+			"Sea",
+			"Peace"
+		],
+		"correct": "People"
+	},
+	{
+		"id": "242",
+		"question": "What is the kangaroo’s role in the Coat of Arms?",
+		"options": [
+			"Background",
+			"Supporter",
+			"Shield",
+			"Star"
+		],
+		"correct": "Supporter"
+	},
+	{
+		"id": "243",
+		"question": "What is the emu’s role in the Coat of Arms?",
+		"options": [
+			"Shield",
+			"Supporter",
+			"Star",
+			"Background"
+		],
+		"correct": "Supporter"
+	},
+	{
+		"id": "244",
+		"question": "What is the second line of the national anthem?",
+		"options": [
+			"For we are one and free",
+			"We’ve golden soil",
+			"Our home is girt by sea",
+			"In joyful strains"
+		],
+		"correct": "For we are one and free"
+	},
+	{
+		"id": "245",
+		"question": "What does parliamentary democracy mean?",
+		"options": [
+			"King’s rule",
+			"People vote for representatives",
+			"Religious control",
+			"Military power"
+		],
+		"correct": "People vote for representatives"
+	},
+	{
+		"id": "246",
+		"question": "What does the Rule of Law prevent?",
+		"options": [
+			"Equality",
+			"Superiority above law",
+			"Voting",
+			"Freedom"
+		],
+		"correct": "Superiority above law"
+	},
+	{
+		"id": "247",
+		"question": "What do Australians reject as a way to change minds?",
+		"options": [
+			"Discussion",
+			"Violence",
+			"Persuasion",
+			"Voting"
+		],
+		"correct": "Violence"
+	},
+	{
+		"id": "248",
+		"question": "What principle supports respect for all individuals?",
+		"options": [
+			"Inequality",
+			"Rights and equality",
+			"Wealth",
+			"Power"
+		],
+		"correct": "Rights and equality"
+	},
+	{
+		"id": "249",
+		"question": "What can freedom of speech be used for?",
+		"options": [
+			"Violence",
+			"Criticizing government",
+			"Breaking laws",
+			"Silencing others"
+		],
+		"correct": "Criticizing government"
+	},
+	{
+		"id": "250",
+		"question": "What can’t be compelled under freedom of association?",
+		"options": [
+			"Joining",
+			"Leaving",
+			"Membership",
+			"Protesting"
+		],
+		"correct": "Membership"
+	},
+	{
+		"id": "251",
+		"question": "What heritage does Australia have regarding religion?",
+		"options": [
+			"Islamic",
+			"Judaeo-Christian",
+			"Buddhist",
+			"Hindu"
+		],
+		"correct": "Judaeo-Christian"
+	},
+	{
+		"id": "252",
+		"question": "What is illegal regarding gender?",
+		"options": [
+			"Equality",
+			"Discrimination",
+			"Education",
+			"Voting"
+		],
+		"correct": "Discrimination"
+	},
+	{
+		"id": "253",
+		"question": "What does a ‘fair go’ promote?",
+		"options": [
+			"Class distinctions",
+			"Equal opportunity",
+			"Wealth privilege",
+			"Gender bias"
+		],
+		"correct": "Equal opportunity"
+	},
+	{
+		"id": "254",
+		"question": "What must citizens do in elections?",
+		"options": [
+			"Protest",
+			"Vote",
+			"Campaign",
+			"Pay taxes"
+		],
+		"correct": "Vote"
+	},
+	{
+		"id": "255",
+		"question": "What privilege allows work in the Public Service?",
+		"options": [
+			"Residency",
+			"Citizenship",
+			"Wealth",
+			"Education"
+		],
+		"correct": "Citizenship"
+	},
+	{
+		"id": "256",
+		"question": "What can citizens seek overseas?",
+		"options": [
+			"Consular assistance",
+			"Foreign citizenship",
+			"Tax relief",
+			"Military aid"
+		],
+		"correct": "Consular assistance"
+	},
+	{
+		"id": "257",
+		"question": "What is a way to contribute to society?",
+		"options": [
+			"Breaking laws",
+			"Volunteering",
+			"Ignoring community",
+			"Tax evasion"
+		],
+		"correct": "Volunteering"
+	},
+	{
+		"id": "258",
+		"question": "What funds healthcare in Australia?",
+		"options": [
+			"Private donations",
+			"Taxes",
+			"Foreign aid",
+			"Charity"
+		],
+		"correct": "Taxes"
+	},
+	{
+		"id": "259",
+		"question": "What is a famous landmark in Canberra?",
+		"options": [
+			"High Court",
+			"Opera House",
+			"Harbour Bridge",
+			"Uluru"
+		],
+		"correct": "High Court"
+	},
+	{
+		"id": "260",
+		"question": "What is a key event on Australia Day?",
+		"options": [
+			"Citizenship ceremonies",
+			"Military parade",
+			"Tax collection",
+			"Court session"
+		],
+		"correct": "Citizenship ceremonies"
+	},
+	{
+		"id": "261",
+		"question": "What does Anzac Day honor?",
+		"options": [
+			"Federation",
+			"Servicemen and women",
+			"Gold rush",
+			"Independence"
+		],
+		"correct": "Servicemen and women"
+	},
+	{
+		"id": "262",
+		"question": "What is the white on the Australian National Flag?",
+		"options": [
+			"Stars and Union Jack",
+			"Background",
+			"Red stripes",
+			"Blue field"
+		],
+		"correct": "Stars and Union Jack"
+	},
+	{
+		"id": "263",
+		"question": "What does the green on the Torres Strait Islander Flag symbolize?",
+		"options": [
+			"Land",
+			"Sea",
+			"People",
+			"Peace"
+		],
+		"correct": "Land"
+	},
+	{
+		"id": "264",
+		"question": "What is the significance of the golden wattle?",
+		"options": [
+			"National flower",
+			"National gemstone",
+			"National anthem",
+			"National flag"
+		],
+		"correct": "National flower"
+	},
+	{
+		"id": "265",
+		"question": "What does the opal symbolize in Aboriginal legend?",
+		"options": [
+			"Water",
+			"Rainbow",
+			"Fire",
+			"Earth"
+		],
+		"correct": "Rainbow"
+	},
+	{
+		"id": "266",
+		"question": "What is sung at citizenship ceremonies?",
+		"options": [
+			"Waltzing Matilda",
+			"Advance Australia Fair",
+			"God Save the King",
+			"Sweet Caroline"
+		],
+		"correct": "Advance Australia Fair"
+	},
+	{
+		"id": "267",
+		"question": "What is a key belief in parliamentary democracy?",
+		"options": [
+			"King’s rule",
+			"People’s vote",
+			"Religious control",
+			"Military power"
+		],
+		"correct": "People’s vote"
+	},
+	{
+		"id": "268",
+		"question": "What does the Rule of Law ensure?",
+		"options": [
+			"Government superiority",
+			"Equality under the law",
+			"Religious dominance",
+			"No penalties"
+		],
+		"correct": "Equality under the law"
+	},
+	{
+		"id": "269",
+		"question": "What do Australians reject as a way to change minds?",
+		"options": [
+			"Discussion",
+			"Violence",
+			"Persuasion",
+			"Voting"
+		],
+		"correct": "Violence"
+	},
+	{
+		"id": "270",
+		"question": "What principle supports respect for all individuals?",
+		"options": [
+			"Inequality",
+			"Rights and equality",
+			"Wealth",
+			"Power"
+		],
+		"correct": "Rights and equality"
+	},
+	{
+		"id": "271",
+		"question": "What can freedom of speech include?",
+		"options": [
+			"Violence",
+			"Peaceful protest",
+			"Breaking laws",
+			"Silencing others"
+		],
+		"correct": "Peaceful protest"
+	},
+	{
+		"id": "272",
+		"question": "What can’t be compelled under freedom of association?",
+		"options": [
+			"Joining",
+			"Leaving",
+			"Membership",
+			"Protesting"
+		],
+		"correct": "Membership"
+	},
+	{
+		"id": "273",
+		"question": "What is a Christian public holiday?",
+		"options": [
+			"Australia Day",
+			"Christmas Day",
+			"Anzac Day",
+			"New Year"
+		],
+		"correct": "Christmas Day"
+	},
+	{
+		"id": "274",
+		"question": "What protects against discrimination?",
+		"options": [
+			"Religious laws",
+			"Australian laws",
+			"Personal choice",
+			"Customs"
+		],
+		"correct": "Australian laws"
+	},
+	{
+		"id": "275",
+		"question": "What does equality of opportunity promote?",
+		"options": [
+			"Class distinctions",
+			"Fair go",
+			"Wealth privilege",
+			"Gender bias"
+		],
+		"correct": "Fair go"
+	},
+	{
+		"id": "276",
+		"question": "What must citizens do in elections?",
+		"options": [
+			"Protest",
+			"Vote",
+			"Campaign",
+			"Pay taxes"
+		],
+		"correct": "Vote"
+	},
+	{
+		"id": "277",
+		"question": "What privilege allows work in the Public Service?",
+		"options": [
+			"Residency",
+			"Citizenship",
+			"Wealth",
+			"Education"
+		],
+		"correct": "Citizenship"
+	},
+	{
+		"id": "278",
+		"question": "What can citizens seek overseas?",
+		"options": [
+			"Consular assistance",
+			"Foreign citizenship",
+			"Tax relief",
+			"Military aid"
+		],
+		"correct": "Consular assistance"
+	},
+	{
+		"id": "279",
+		"question": "What is a way to contribute to society?",
+		"options": [
+			"Breaking laws",
+			"Volunteering",
+			"Ignoring community",
+			"Tax evasion"
+		],
+		"correct": "Volunteering"
+	},
+	{
+		"id": "280",
+		"question": "What funds healthcare in Australia?",
+		"options": [
+			"Private donations",
+			"Taxes",
+			"Foreign aid",
+			"Charity"
+		],
+		"correct": "Taxes"
+	},
+	{
+		"id": "281",
+		"question": "What is a famous landmark in Canberra?",
+		"options": [
+			"High Court",
+			"Opera House",
+			"Harbour Bridge",
+			"Uluru"
+		],
+		"correct": "High Court"
+	},
+	{
+		"id": "282",
+		"question": "What is a key event on Australia Day?",
+		"options": [
+			"Citizenship ceremonies",
+			"Military parade",
+			"Tax collection",
+			"Court session"
+		],
+		"correct": "Citizenship ceremonies"
+	},
+	{
+		"id": "283",
+		"question": "What does Anzac Day honor?",
+		"options": [
+			"Federation",
+			"Servicemen and women",
+			"Gold rush",
+			"Independence"
+		],
+		"correct": "Servicemen and women"
+	},
+	{
+		"id": "284",
+		"question": "What is the white on the Australian National Flag?",
+		"options": [
+			"Stars and Union Jack",
+			"Background",
+			"Red stripes",
+			"Blue field"
+		],
+		"correct": "Stars and Union Jack"
+	},
+	{
+		"id": "285",
+		"question": "What does the green on the Torres Strait Islander Flag symbolize?",
+		"options": [
+			"Land",
+			"Sea",
+			"People",
+			"Peace"
+		],
+		"correct": "Land"
+	},
+	{
+		"id": "286",
+		"question": "What is the significance of the golden wattle?",
+		"options": [
+			"National flower",
+			"National gemstone",
+			"National anthem",
+			"National flag"
+		],
+		"correct": "National flower"
+	},
+	{
+		"id": "287",
+		"question": "What does the opal symbolize in Aboriginal legend?",
+		"options": [
+			"Water",
+			"Rainbow",
+			"Fire",
+			"Earth"
+		],
+		"correct": "Rainbow"
+	},
+	{
+		"id": "288",
+		"question": "What is sung at citizenship ceremonies?",
+		"options": [
+			"Waltzing Matilda",
+			"Advance Australia Fair",
+			"God Save the King",
+			"Sweet Caroline"
+		],
+		"correct": "Advance Australia Fair"
+	},
+	{
+		"id": "289",
+		"question": "What is a key belief in parliamentary democracy?",
+		"options": [
+			"King’s rule",
+			"People’s vote",
+			"Religious control",
+			"Military power"
+		],
+		"correct": "People’s vote"
+	},
+	{
+		"id": "290",
+		"question": "What does the Rule of Law ensure?",
+		"options": [
+			"Government superiority",
+			"Equality under the law",
+			"Religious dominance",
+			"No penalties"
+		],
+		"correct": "Equality under the law"
+	},
+	{
+		"id": "291",
+		"question": "What do Australians reject as a way to change minds?",
+		"options": [
+			"Discussion",
+			"Violence",
+			"Persuasion",
+			"Voting"
+		],
+		"correct": "Violence"
+	},
+	{
+		"id": "292",
+		"question": "What principle supports respect for all individuals?",
+		"options": [
+			"Inequality",
+			"Rights and equality",
+			"Wealth",
+			"Power"
+		],
+		"correct": "Rights and equality"
+	},
+	{
+		"id": "293",
+		"question": "What can freedom of speech include?",
+		"options": [
+			"Violence",
+			"Peaceful protest",
+			"Breaking laws",
+			"Silencing others"
+		],
+		"correct": "Peaceful protest"
+	},
+	{
+		"id": "294",
+		"question": "What can’t be compelled under freedom of association?",
+		"options": [
+			"Joining",
+			"Leaving",
+			"Membership",
+			"Protesting"
+		],
+		"correct": "Membership"
+	},
+	{
+		"id": "295",
+		"question": "What is a Christian public holiday?",
+		"options": [
+			"Australia Day",
+			"Easter Sunday",
+			"Anzac Day",
+			"New Year"
+		],
+		"correct": "Easter Sunday"
+	},
+	{
+		"id": "296",
+		"question": "What protects against discrimination?",
+		"options": [
+			"Religious laws",
+			"Australian laws",
+			"Personal choice",
+			"Customs"
+		],
+		"correct": "Australian laws"
+	},
+	{
+		"id": "297",
+		"question": "What does equality of opportunity promote?",
+		"options": [
+			"Class distinctions",
+			"Fair go",
+			"Wealth privilege",
+			"Gender bias"
+		],
+		"correct": "Fair go"
+	},
+	{
+		"id": "298",
+		"question": "What must citizens do in a referendum?",
+		"options": [
+			"Protest",
+			"Vote",
+			"Campaign",
+			"Pay taxes"
+		],
+		"correct": "Vote"
+	},
+	{
+		"id": "299",
+		"question": "What privilege allows running for parliament?",
+		"options": [
+			"Residency",
+			"Citizenship",
+			"Wealth",
+			"Education"
+		],
+		"correct": "Citizenship"
+	},
+	{
+		"id": "300",
+		"question": "What is a way to participate politically?",
+		"options": [
+			"Breaking laws",
+			"Voting",
+			"Ignoring community",
+			"Tax evasion"
+		],
+		"correct": "Voting"
+	},
+	{
+		"id": "301",
+		"question": "What funds social security?",
+		"options": [
+			"Private donations",
+			"Taxes",
+			"Foreign aid",
+			"Charity"
+		],
+		"correct": "Taxes"
+	},
+	{
+		"id": "302",
+		"question": "What is a famous landmark in Victoria?",
+		"options": [
+			"12 Apostles",
+			"Opera House",
+			"Harbour Bridge",
+			"Uluru"
+		],
+		"correct": "12 Apostles"
+	},
+	{
+		"id": "303",
+		"question": "What is a key event on Anzac Day?",
+		"options": [
+			"Citizenship ceremonies",
+			"Commemoration of war",
+			"Tax collection",
+			"Court session"
+		],
+		"correct": "Commemoration of war"
+	},
+	{
+		"id": "304",
+		"question": "What does the red on the Australian National Flag represent?",
+		"options": [
+			"Earth",
+			"British settlement",
+			"Blood",
+			"Sun"
+		],
+		"correct": "British settlement"
+	},
+	{
+		"id": "305",
+		"question": "What does the black on the Torres Strait Islander Flag symbolize?",
+		"options": [
+			"Land",
+			"People",
+			"Sea",
+			"Peace"
+		],
+		"correct": "People"
+	},
+	{
+		"id": "306",
+		"question": "What is the significance of the golden wattle?",
+		"options": [
+			"National gemstone",
+			"National flower",
+			"National anthem",
+			"National flag"
+		],
+		"correct": "National flower"
+	},
+	{
+		"id": "307",
+		"question": "What is the third line of the national anthem?",
+		"options": [
+			"We’ve golden soil and wealth for toil",
+			"For we are one and free",
+			"Our home is girt by sea",
+			"In joyful strains"
+		],
+		"correct": "We’ve golden soil and wealth for toil"
+	},
+	{
+		"id": "308",
+		"question": "What does parliamentary democracy ensure?",
+		"options": [
+			"King’s rule",
+			"People’s voice",
+			"Religious control",
+			"Military power"
+		],
+		"correct": "People’s voice"
+	},
+	{
+		"id": "309",
+		"question": "What does the Rule of Law apply to all?",
+		"options": [
+			"Citizens only",
+			"Everyone",
+			"Leaders only",
+			"Police only"
+		],
+		"correct": "Everyone"
+	},
+	{
+		"id": "310",
+		"question": "What do Australians value over force?",
+		"options": [
+			"Violence",
+			"Discussion",
+			"Revolution",
+			"Ignoring issues"
+		],
+		"correct": "Discussion"
+	},
+	{
+		"id": "311",
+		"question": "What is respected under Australian values?",
+		"options": [
+			"Wealth",
+			"Dignity",
+			"Power",
+			"Inequality"
+		],
+		"correct": "Dignity"
+	},
+	{
+		"id": "312",
+		"question": "What can freedom of speech include?",
+		"options": [
+			"Violence",
+			"Peaceful protest",
+			"Breaking laws",
+			"Silencing others"
+		],
+		"correct": "Peaceful protest"
+	},
+	{
+		"id": "313",
+		"question": "What can’t be forced under freedom of association?",
+		"options": [
+			"Joining",
+			"Leaving",
+			"Membership",
+			"Protesting"
+		],
+		"correct": "Membership"
+	},
+	{
+		"id": "314",
+		"question": "What is a Christian public holiday?",
+		"options": [
+			"Australia Day",
+			"Easter Sunday",
+			"Anzac Day",
+			"New Year"
+		],
+		"correct": "Easter Sunday"
+	},
+	{
+		"id": "315",
+		"question": "What protects against discrimination?",
+		"options": [
+			"Religious laws",
+			"Australian laws",
+			"Personal choice",
+			"Customs"
+		],
+		"correct": "Australian laws"
+	},
+	{
+		"id": "316",
+		"question": "What does equality of opportunity promote?",
+		"options": [
+			"Class distinctions",
+			"Fair go",
+			"Wealth privilege",
+			"Gender bias"
+		],
+		"correct": "Fair go"
+	},
+	{
+		"id": "317",
+		"question": "What must citizens do in a referendum?",
+		"options": [
+			"Protest",
+			"Vote",
+			"Campaign",
+			"Pay taxes"
+		],
+		"correct": "Vote"
+	},
+	{
+		"id": "318",
+		"question": "What privilege allows running for parliament?",
+		"options": [
+			"Residency",
+			"Citizenship",
+			"Wealth",
+			"Education"
+		],
+		"correct": "Citizenship"
+	},
+	{
+		"id": "319",
+		"question": "What is a way to participate politically?",
+		"options": [
+			"Breaking laws",
+			"Voting",
+			"Ignoring community",
+			"Tax evasion"
+		],
+		"correct": "Voting"
+	},
+	{
+		"id": "320",
+		"question": "What funds social security?",
+		"options": [
+			"Private donations",
+			"Taxes",
+			"Foreign aid",
+			"Charity"
+		],
+		"correct": "Taxes"
+	},
+	{
+		"id": "321",
+		"question": "What is a famous landmark in Victoria?",
+		"options": [
+			"12 Apostles",
+			"Opera House",
+			"Harbour Bridge",
+			"Uluru"
+		],
+		"correct": "12 Apostles"
+	},
+	{
+		"id": "322",
+		"question": "What is a key event on Anzac Day?",
+		"options": [
+			"Citizenship ceremonies",
+			"Commemoration of war",
+			"Tax collection",
+			"Court session"
+		],
+		"correct": "Commemoration of war"
+	},
+	{
+		"id": "323",
+		"question": "What does the red on the Australian National Flag represent?",
+		"options": [
+			"Earth",
+			"British settlement",
+			"Blood",
+			"Sun"
+		],
+		"correct": "British settlement"
+	},
+	{
+		"id": "324",
+		"question": "What does the black on the Torres Strait Islander Flag symbolize?",
+		"options": [
+			"Land",
+			"People",
+			"Sea",
+			"Peace"
+		],
+		"correct": "People"
+	},
+	{
+		"id": "325",
+		"question": "What is the significance of the golden wattle?",
+		"options": [
+			"National gemstone",
+			"National flower",
+			"National anthem",
+			"National flag"
+		],
+		"correct": "National flower"
+	},
+	{
+		"id": "326",
+		"question": "What is the third line of the national anthem?",
+		"options": [
+			"We’ve golden soil and wealth for toil",
+			"For we are one and free",
+			"Our home is girt by sea",
+			"In joyful strains"
+		],
+		"correct": "We’ve golden soil and wealth for toil"
+	},
+	{
+		"id": "327",
+		"question": "What does parliamentary democracy ensure?",
+		"options": [
+			"King’s rule",
+			"People’s voice",
+			"Religious control",
+			"Military power"
+		],
+		"correct": "People’s voice"
+	},
+	{
+		"id": "328",
+		"question": "What does the Rule of Law apply to all?",
+		"options": [
+			"Citizens only",
+			"Everyone",
+			"Leaders only",
+			"Police only"
+		],
+		"correct": "Everyone"
+	},
+	{
+		"id": "329",
+		"question": "What do Australians value over force?",
+		"options": [
+			"Violence",
+			"Discussion",
+			"Revolution",
+			"Ignoring issues"
+		],
+		"correct": "Discussion"
+	},
+	{
+		"id": "330",
+		"question": "What is respected under Australian values?",
+		"options": [
+			"Wealth",
+			"Dignity",
+			"Power",
+			"Inequality"
+		],
+		"correct": "Dignity"
+	},
+	{
+		"id": "331",
+		"question": "What can freedom of speech include?",
+		"options": [
+			"Violence",
+			"Peaceful protest",
+			"Breaking laws",
+			"Silencing others"
+		],
+		"correct": "Peaceful protest"
+	},
+	{
+		"id": "332",
+		"question": "What can’t be forced under freedom of association?",
+		"options": [
+			"Joining",
+			"Leaving",
+			"Membership",
+			"Protesting"
+		],
+		"correct": "Membership"
+	},
+	{
+		"id": "333",
+		"question": "What is a Christian public holiday?",
+		"options": [
+			"Australia Day",
+			"Easter Sunday",
+			"Anzac Day",
+			"New Year"
+		],
+		"correct": "Easter Sunday"
+	},
+	{
+		"id": "334",
+		"question": "What protects against discrimination?",
+		"options": [
+			"Religious laws",
+			"Australian laws",
+			"Personal choice",
+			"Customs"
+		],
+		"correct": "Australian laws"
+	},
+	{
+		"id": "335",
+		"question": "What does equality of opportunity promote?",
+		"options": [
+			"Class distinctions",
+			"Fair go",
+			"Wealth privilege",
+			"Gender bias"
+		],
+		"correct": "Fair go"
+	},
+	{
+		"id": "336",
+		"question": "What must citizens do in a referendum?",
+		"options": [
+			"Protest",
+			"Vote",
+			"Campaign",
+			"Pay taxes"
+		],
+		"correct": "Vote"
+	},
+	{
+		"id": "337",
+		"question": "What privilege allows running for parliament?",
+		"options": [
+			"Residency",
+			"Citizenship",
+			"Wealth",
+			"Education"
+		],
+		"correct": "Citizenship"
+	},
+	{
+		"id": "338",
+		"question": "What is a way to participate politically?",
+		"options": [
+			"Breaking laws",
+			"Voting",
+			"Ignoring community",
+			"Tax evasion"
+		],
+		"correct": "Voting"
+	},
+	{
+		"id": "339",
+		"question": "What funds social security?",
+		"options": [
+			"Private donations",
+			"Taxes",
+			"Foreign aid",
+			"Charity"
+		],
+		"correct": "Taxes"
+	},
+	{
+		"id": "340",
+		"question": "What is a famous landmark in Victoria?",
+		"options": [
+			"12 Apostles",
+			"Opera House",
+			"Harbour Bridge",
+			"Uluru"
+		],
+		"correct": "12 Apostles"
+	},
+	{
+		"id": "341",
+		"question": "What is a key event on Anzac Day?",
+		"options": [
+			"Citizenship ceremonies",
+			"Commemoration of war",
+			"Tax collection",
+			"Court session"
+		],
+		"correct": "Commemoration of war"
+	},
+	{
+		"id": "342",
+		"question": "What does the red on the Australian National Flag represent?",
+		"options": [
+			"Earth",
+			"British settlement",
+			"Blood",
+			"Sun"
+		],
+		"correct": "British settlement"
+	},
+	{
+		"id": "343",
+		"question": "What does the black on the Torres Strait Islander Flag symbolize?",
+		"options": [
+			"Land",
+			"People",
+			"Sea",
+			"Peace"
+		],
+		"correct": "People"
+	},
+	{
+		"id": "344",
+		"question": "What is the significance of the golden wattle?",
+		"options": [
+			"National gemstone",
+			"National flower",
+			"National anthem",
+			"National flag"
+		],
+		"correct": "National flower"
+	},
+	{
+		"id": "345",
+		"question": "What is the third line of the national anthem?",
+		"options": [
+			"We’ve golden soil and wealth for toil",
+			"For we are one and free",
+			"Our home is girt by sea",
+			"In joyful strains"
+		],
+		"correct": "We’ve golden soil and wealth for toil"
+	},
+	{
+		"id": "346",
+		"question": "What does parliamentary democracy ensure?",
+		"options": [
+			"King’s rule",
+			"People’s voice",
+			"Religious control",
+			"Military power"
+		],
+		"correct": "People’s voice"
+	},
+	{
+		"id": "347",
+		"question": "What does the Rule of Law apply to all?",
+		"options": [
+			"Citizens only",
+			"Everyone",
+			"Leaders only",
+			"Police only"
+		],
+		"correct": "Everyone"
+	},
+	{
+		"id": "348",
+		"question": "What do Australians value over force?",
+		"options": [
+			"Violence",
+			"Discussion",
+			"Revolution",
+			"Ignoring issues"
+		],
+		"correct": "Discussion"
+	},
+	{
+		"id": "349",
+		"question": "What is respected under Australian values?",
+		"options": [
+			"Wealth",
+			"Dignity",
+			"Power",
+			"Inequality"
+		],
+		"correct": "Dignity"
+	},
+	{
+		"id": "350",
+		"question": "What can freedom of speech include?",
+		"options": [
+			"Violence",
+			"Peaceful protest",
+			"Breaking laws",
+			"Silencing others"
+		],
+		"correct": "Peaceful protest"
+	},
+	{
+		"id": "351",
+		"question": "What can’t be forced under freedom of association?",
+		"options": [
+			"Joining",
+			"Leaving",
+			"Membership",
+			"Protesting"
+		],
+		"correct": "Membership"
+	},
+	{
+		"id": "352",
+		"question": "What is a Christian public holiday?",
+		"options": [
+			"Australia Day",
+			"Easter Sunday",
+			"Anzac Day",
+			"New Year"
+		],
+		"correct": "Easter Sunday"
+	},
+	{
+		"id": "353",
+		"question": "What protects against discrimination?",
+		"options": [
+			"Religious laws",
+			"Australian laws",
+			"Personal choice",
+			"Customs"
+		],
+		"correct": "Australian laws"
+	},
+	{
+		"id": "354",
+		"question": "What does equality of opportunity promote?",
+		"options": [
+			"Class distinctions",
+			"Fair go",
+			"Wealth privilege",
+			"Gender bias"
+		],
+		"correct": "Fair go"
+	},
+	{
+		"id": "355",
+		"question": "What must citizens do in a referendum?",
+		"options": [
+			"Protest",
+			"Vote",
+			"Campaign",
+			"Pay taxes"
+		],
+		"correct": "Vote"
+	},
+	{
+		"id": "356",
+		"question": "What privilege allows running for parliament?",
+		"options": [
+			"Residency",
+			"Citizenship",
+			"Wealth",
+			"Education"
+		],
+		"correct": "Citizenship"
+	},
+	{
+		"id": "357",
+		"question": "What is a way to participate politically?",
+		"options": [
+			"Breaking laws",
+			"Voting",
+			"Ignoring community",
+			"Tax evasion"
+		],
+		"correct": "Voting"
+	},
+	{
+		"id": "358",
+		"question": "What funds social security?",
+		"options": [
+			"Private donations",
+			"Taxes",
+			"Foreign aid",
+			"Charity"
+		],
+		"correct": "Taxes"
+	},
+	{
+		"id": "359",
+		"question": "What is a famous landmark in Victoria?",
+		"options": [
+			"12 Apostles",
+			"Opera House",
+			"Harbour Bridge",
+			"Uluru"
+		],
+		"correct": "12 Apostles"
+	},
+	{
+		"id": "360",
+		"question": "What is a key event on Anzac Day?",
+		"options": [
+			"Citizenship ceremonies",
+			"Commemoration of war",
+			"Tax collection",
+			"Court session"
+		],
+		"correct": "Commemoration of war"
+	},
+	{
+		"id": "361",
+		"question": "What does the red on the Australian National Flag represent?",
+		"options": [
+			"Earth",
+			"British settlement",
+			"Blood",
+			"Sun"
+		],
+		"correct": "British settlement"
+	},
+	{
+		"id": "362",
+		"question": "What does the black on the Torres Strait Islander Flag symbolize?",
+		"options": [
+			"Land",
+			"People",
+			"Sea",
+			"Peace"
+		],
+		"correct": "People"
+	},
+	{
+		"id": "363",
+		"question": "What is the significance of the golden wattle?",
+		"options": [
+			"National gemstone",
+			"National flower",
+			"National anthem",
+			"National flag"
+		],
+		"correct": "National flower"
+	},
+	{
+		"id": "364",
+		"question": "What is the third line of the national anthem?",
+		"options": [
+			"We’ve golden soil and wealth for toil",
+			"For we are one and free",
+			"Our home is girt by sea",
+			"In joyful strains"
+		],
+		"correct": "We’ve golden soil and wealth for toil"
+	},
+	{
+		"id": "365",
+		"question": "What does parliamentary democracy ensure?",
+		"options": [
+			"King’s rule",
+			"People’s voice",
+			"Religious control",
+			"Military power"
+		],
+		"correct": "People’s voice"
+	},
+	{
+		"id": "366",
+		"question": "What does the Rule of Law apply to all?",
+		"options": [
+			"Citizens only",
+			"Everyone",
+			"Leaders only",
+			"Police only"
+		],
+		"correct": "Everyone"
+	},
+	{
+		"id": "367",
+		"question": "What do Australians value over force?",
+		"options": [
+			"Violence",
+			"Discussion",
+			"Revolution",
+			"Ignoring issues"
+		],
+		"correct": "Discussion"
+	},
+	{
+		"id": "368",
+		"question": "What is respected under Australian values?",
+		"options": [
+			"Wealth",
+			"Dignity",
+			"Power",
+			"Inequality"
+		],
+		"correct": "Dignity"
+	},
+	{
+		"id": "369",
+		"question": "What can freedom of speech include?",
+		"options": [
+			"Violence",
+			"Peaceful protest",
+			"Breaking laws",
+			"Silencing others"
+		],
+		"correct": "Peaceful protest"
+	},
+	{
+		"id": "370",
+		"question": "What can’t be forced under freedom of association?",
+		"options": [
+			"Joining",
+			"Leaving",
+			"Membership",
+			"Protesting"
+		],
+		"correct": "Membership"
+	},
+	{
+		"id": "371",
+		"question": "What is a Christian public holiday?",
+		"options": [
+			"Australia Day",
+			"Easter Sunday",
+			"Anzac Day",
+			"New Year"
+		],
+		"correct": "Easter Sunday"
+	},
+	{
+		"id": "372",
+		"question": "What protects against discrimination?",
+		"options": [
+			"Religious laws",
+			"Australian laws",
+			"Personal choice",
+			"Customs"
+		],
+		"correct": "Australian laws"
+	},
+	{
+		"id": "373",
+		"question": "What does equality of opportunity promote?",
+		"options": [
+			"Class distinctions",
+			"Fair go",
+			"Wealth privilege",
+			"Gender bias"
+		],
+		"correct": "Fair go"
+	},
+	{
+		"id": "374",
+		"question": "What must citizens do in a referendum?",
+		"options": [
+			"Protest",
+			"Vote",
+			"Campaign",
+			"Pay taxes"
+		],
+		"correct": "Vote"
+	},
+	{
+		"id": "375",
+		"question": "What privilege allows running for parliament?",
+		"options": [
+			"Residency",
+			"Citizenship",
+			"Wealth",
+			"Education"
+		],
+		"correct": "Citizenship"
+	},
+	{
+		"id": "376",
+		"question": "What is a way to participate politically?",
+		"options": [
+			"Breaking laws",
+			"Voting",
+			"Ignoring community",
+			"Tax evasion"
+		],
+		"correct": "Voting"
+	},
+	{
+		"id": "377",
+		"question": "What funds social security?",
+		"options": [
+			"Private donations",
+			"Taxes",
+			"Foreign aid",
+			"Charity"
+		],
+		"correct": "Taxes"
+	},
+	{
+		"id": "378",
+		"question": "What is a famous landmark in Victoria?",
+		"options": [
+			"12 Apostles",
+			"Opera House",
+			"Harbour Bridge",
+			"Uluru"
+		],
+		"correct": "12 Apostles"
+	},
+	{
+		"id": "379",
+		"question": "What is a key event on Anzac Day?",
+		"options": [
+			"Citizenship ceremonies",
+			"Commemoration of war",
+			"Tax collection",
+			"Court session"
+		],
+		"correct": "Commemoration of war"
+	},
+	{
+		"id": "380",
+		"question": "What does the red on the Australian National Flag represent?",
+		"options": [
+			"Earth",
+			"British settlement",
+			"Blood",
+			"Sun"
+		],
+		"correct": "British settlement"
+	},
+	{
+		"id": "381",
+		"question": "What does the black on the Torres Strait Islander Flag symbolize?",
+		"options": [
+			"Land",
+			"People",
+			"Sea",
+			"Peace"
+		],
+		"correct": "People"
+	},
+	{
+		"id": "382",
+		"question": "What is the significance of the golden wattle?",
+		"options": [
+			"National gemstone",
+			"National flower",
+			"National anthem",
+			"National flag"
+		],
+		"correct": "National flower"
+	},
+	{
+		"id": "383",
+		"question": "What is the third line of the national anthem?",
+		"options": [
+			"We’ve golden soil and wealth for toil",
+			"For we are one and free",
+			"Our home is girt by sea",
+			"In joyful strains"
+		],
+		"correct": "We’ve golden soil and wealth for toil"
+	},
+	{
+		"id": "384",
+		"question": "What does parliamentary democracy ensure?",
+		"options": [
+			"King’s rule",
+			"People’s voice",
+			"Religious control",
+			"Military power"
+		],
+		"correct": "People’s voice"
+	},
+	{
+		"id": "385",
+		"question": "What does the Rule of Law apply to all?",
+		"options": [
+			"Citizens only",
+			"Everyone",
+			"Leaders only",
+			"Police only"
+		],
+		"correct": "Everyone"
+	},
+	{
+		"id": "386",
+		"question": "What do Australians value over force?",
+		"options": [
+			"Violence",
+			"Discussion",
+			"Revolution",
+			"Ignoring issues"
+		],
+		"correct": "Discussion"
+	},
+	{
+		"id": "387",
+		"question": "What is respected under Australian values?",
+		"options": [
+			"Wealth",
+			"Dignity",
+			"Power",
+			"Inequality"
+		],
+		"correct": "Dignity"
+	},
+	{
+		"id": "388",
+		"question": "What can freedom of speech include?",
+		"options": [
+			"Violence",
+			"Peaceful protest",
+			"Breaking laws",
+			"Silencing others"
+		],
+		"correct": "Peaceful protest"
+	},
+	{
+		"id": "389",
+		"question": "What can’t be forced under freedom of association?",
+		"options": [
+			"Joining",
+			"Leaving",
+			"Membership",
+			"Protesting"
+		],
+		"correct": "Membership"
+	},
+	{
+		"id": "390",
+		"question": "What is a Christian public holiday?",
+		"options": [
+			"Australia Day",
+			"Easter Sunday",
+			"Anzac Day",
+			"New Year"
+		],
+		"correct": "Easter Sunday"
+	},
+	{
+		"id": "391",
+		"question": "What protects against discrimination?",
+		"options": [
+			"Religious laws",
+			"Australian laws",
+			"Personal choice",
+			"Customs"
+		],
+		"correct": "Australian laws"
+	},
+	{
+		"id": "392",
+		"question": "What does equality of opportunity promote?",
+		"options": [
+			"Class distinctions",
+			"Fair go",
+			"Wealth privilege",
+			"Gender bias"
+		],
+		"correct": "Fair go"
+	},
+	{
+		"id": "393",
+		"question": "What must citizens do in a referendum?",
+		"options": [
+			"Protest",
+			"Vote",
+			"Campaign",
+			"Pay taxes"
+		],
+		"correct": "Vote"
+	},
+	{
+		"id": "394",
+		"question": "What privilege allows running for parliament?",
+		"options": [
+			"Residency",
+			"Citizenship",
+			"Wealth",
+			"Education"
+		],
+		"correct": "Citizenship"
+	},
+	{
+		"id": "395",
+		"question": "What is a way to participate politically?",
+		"options": [
+			"Breaking laws",
+			"Voting",
+			"Ignoring community",
+			"Tax evasion"
+		],
+		"correct": "Voting"
+	},
+	{
+		"id": "396",
+		"question": "What funds social security?",
+		"options": [
+			"Private donations",
+			"Taxes",
+			"Foreign aid",
+			"Charity"
+		],
+		"correct": "Taxes"
+	},
+	{
+		"id": "397",
+		"question": "What is a famous landmark in Victoria?",
+		"options": [
+			"12 Apostles",
+			"Opera House",
+			"Harbour Bridge",
+			"Uluru"
+		],
+		"correct": "12 Apostles"
+	},
+	{
+		"id": "398",
+		"question": "What is a key event on Anzac Day?",
+		"options": [
+			"Citizenship ceremonies",
+			"Commemoration of war",
+			"Tax collection",
+			"Court session"
+		],
+		"correct": "Commemoration of war"
+	},
+	{
+		"id": "399",
+		"question": "What does the red on the Australian National Flag represent?",
+		"options": [
+			"Earth",
+			"British settlement",
+			"Blood",
+			"Sun"
+		],
+		"correct": "British settlement"
+	},
+	{
+		"id": "400",
+		"question": "What does the black on the Torres Strait Islander Flag symbolize?",
+		"options": [
+			"Land",
+			"People",
+			"Sea",
+			"Peace"
+		],
+		"correct": "People"
+	},
+	{
+		"id": "401",
+		"question": "What is the significance of the golden wattle?",
+		"options": [
+			"National gemstone",
+			"National flower",
+			"National anthem",
+			"National flag"
+		],
+		"correct": "National flower"
+	},
+	{
+		"id": "402",
+		"question": "What is the third line of the national anthem?",
+		"options": [
+			"We’ve golden soil and wealth for toil",
+			"For we are one and free",
+			"Our home is girt by sea",
+			"In joyful strains"
+		],
+		"correct": "We’ve golden soil and wealth for toil"
+	},
+	{
+		"id": "403",
+		"question": "What does parliamentary democracy ensure?",
+		"options": [
+			"King’s rule",
+			"People’s voice",
+			"Religious control",
+			"Military power"
+		],
+		"correct": "People’s voice"
+	},
+	{
+		"id": "404",
+		"question": "What does the Rule of Law apply to all?",
+		"options": [
+			"Citizens only",
+			"Everyone",
+			"Leaders only",
+			"Police only"
+		],
+		"correct": "Everyone"
+	},
+	{
+		"id": "405",
+		"question": "What do Australians value over force?",
+		"options": [
+			"Violence",
+			"Discussion",
+			"Revolution",
+			"Ignoring issues"
+		],
+		"correct": "Discussion"
+	},
+	{
+		"id": "406",
+		"question": "What is respected under Australian values?",
+		"options": [
+			"Wealth",
+			"Dignity",
+			"Power",
+			"Inequality"
+		],
+		"correct": "Dignity"
+	},
+	{
+		"id": "407",
+		"question": "What can freedom of speech include?",
+		"options": [
+			"Violence",
+			"Peaceful protest",
+			"Breaking laws",
+			"Silencing others"
+		],
+		"correct": "Peaceful protest"
+	},
+	{
+		"id": "408",
+		"question": "What can’t be forced under freedom of association?",
+		"options": [
+			"Joining",
+			"Leaving",
+			"Membership",
+			"Protesting"
+		],
+		"correct": "Membership"
+	},
+	{
+		"id": "409",
+		"question": "What is a Christian public holiday?",
+		"options": [
+			"Australia Day",
+			"Easter Sunday",
+			"Anzac Day",
+			"New Year"
+		],
+		"correct": "Easter Sunday"
+	},
+	{
+		"id": "410",
+		"question": "What protects against discrimination?",
+		"options": [
+			"Religious laws",
+			"Australian laws",
+			"Personal choice",
+			"Customs"
+		],
+		"correct": "Australian laws"
+	},
+	{
+		"id": "411",
+		"question": "What does equality of opportunity promote?",
+		"options": [
+			"Class distinctions",
+			"Fair go",
+			"Wealth privilege",
+			"Gender bias"
+		],
+		"correct": "Fair go"
+	},
+	{
+		"id": "412",
+		"question": "What must citizens do in a referendum?",
+		"options": [
+			"Protest",
+			"Vote",
+			"Campaign",
+			"Pay taxes"
+		],
+		"correct": "Vote"
+	},
+	{
+		"id": "413",
+		"question": "What privilege allows running for parliament?",
+		"options": [
+			"Residency",
+			"Citizenship",
+			"Wealth",
+			"Education"
+		],
+		"correct": "Citizenship"
+	},
+	{
+		"id": "414",
+		"question": "What is a way to participate politically?",
+		"options": [
+			"Breaking laws",
+			"Voting",
+			"Ignoring community",
+			"Tax evasion"
+		],
+		"correct": "Voting"
+	},
+	{
+		"id": "415",
+		"question": "What funds social security?",
+		"options": [
+			"Private donations",
+			"Taxes",
+			"Foreign aid",
+			"Charity"
+		],
+		"correct": "Taxes"
+	},
+	{
+		"id": "416",
+		"question": "What is a famous landmark in Victoria?",
+		"options": [
+			"12 Apostles",
+			"Opera House",
+			"Harbour Bridge",
+			"Uluru"
+		],
+		"correct": "12 Apostles"
+	},
+	{
+		"id": "417",
+		"question": "What is a key event on Anzac Day?",
+		"options": [
+			"Citizenship ceremonies",
+			"Commemoration of war",
+			"Tax collection",
+			"Court session"
+		],
+		"correct": "Commemoration of war"
+	},
+	{
+		"id": "418",
+		"question": "What does the red on the Australian National Flag represent?",
+		"options": [
+			"Earth",
+			"British settlement",
+			"Blood",
+			"Sun"
+		],
+		"correct": "British settlement"
+	},
+	{
+		"id": "419",
+		"question": "What does the black on the Torres Strait Islander Flag symbolize?",
+		"options": [
+			"Land",
+			"People",
+			"Sea",
+			"Peace"
+		],
+		"correct": "People"
+	},
+	{
+		"id": "420",
+		"question": "What is the significance of the golden wattle?",
+		"options": [
+			"National gemstone",
+			"National flower",
+			"National anthem",
+			"National flag"
+		],
+		"correct": "National flower"
+	},
+	{
+		"id": "421",
+		"question": "What is the third line of the national anthem?",
+		"options": [
+			"We’ve golden soil and wealth for toil",
+			"For we are one and free",
+			"Our home is girt by sea",
+			"In joyful strains"
+		],
+		"correct": "We’ve golden soil and wealth for toil"
+	},
+	{
+		"id": "422",
+		"question": "What does parliamentary democracy ensure?",
+		"options": [
+			"King’s rule",
+			"People’s voice",
+			"Religious control",
+			"Military power"
+		],
+		"correct": "People’s voice"
+	},
+	{
+		"id": "423",
+		"question": "What does the Rule of Law apply to all?",
+		"options": [
+			"Citizens only",
+			"Everyone",
+			"Leaders only",
+			"Police only"
+		],
+		"correct": "Everyone"
+	},
+	{
+		"id": "424",
+		"question": "What do Australians value over force?",
+		"options": [
+			"Violence",
+			"Discussion",
+			"Revolution",
+			"Ignoring issues"
+		],
+		"correct": "Discussion"
+	},
+	{
+		"id": "425",
+		"question": "What is respected under Australian values?",
+		"options": [
+			"Wealth",
+			"Dignity",
+			"Power",
+			"Inequality"
+		],
+		"correct": "Dignity"
+	},
+	{
+		"id": "426",
+		"question": "What can freedom of speech include?",
+		"options": [
+			"Violence",
+			"Peaceful protest",
+			"Breaking laws",
+			"Silencing others"
+		],
+		"correct": "Peaceful protest"
+	},
+	{
+		"id": "427",
+		"question": "What can’t be forced under freedom of association?",
+		"options": [
+			"Joining",
+			"Leaving",
+			"Membership",
+			"Protesting"
+		],
+		"correct": "Membership"
+	},
+	{
+		"id": "428",
+		"question": "What is a Christian public holiday?",
+		"options": [
+			"Australia Day",
+			"Easter Sunday",
+			"Anzac Day",
+			"New Year"
+		],
+		"correct": "Easter Sunday"
+	},
+	{
+		"id": "429",
+		"question": "What protects against discrimination?",
+		"options": [
+			"Religious laws",
+			"Australian laws",
+			"Personal choice",
+			"Customs"
+		],
+		"correct": "Australian laws"
+	},
+	{
+		"id": "430",
+		"question": "What does equality of opportunity promote?",
+		"options": [
+			"Class distinctions",
+			"Fair go",
+			"Wealth privilege",
+			"Gender bias"
+		],
+		"correct": "Fair go"
+	},
+	{
+		"id": "431",
+		"question": "What must citizens do in a referendum?",
+		"options": [
+			"Protest",
+			"Vote",
+			"Campaign",
+			"Pay taxes"
+		],
+		"correct": "Vote"
+	},
+	{
+		"id": "432",
+		"question": "What privilege allows running for parliament?",
+		"options": [
+			"Residency",
+			"Citizenship",
+			"Wealth",
+			"Education"
+		],
+		"correct": "Citizenship"
+	},
+	{
+		"id": "433",
+		"question": "What is a way to participate politically?",
+		"options": [
+			"Breaking laws",
+			"Voting",
+			"Ignoring community",
+			"Tax evasion"
+		],
+		"correct": "Voting"
+	},
+	{
+		"id": "434",
+		"question": "What funds social security?",
+		"options": [
+			"Private donations",
+			"Taxes",
+			"Foreign aid",
+			"Charity"
+		],
+		"correct": "Taxes"
+	},
+	{
+		"id": "435",
+		"question": "What is a famous landmark in Victoria?",
+		"options": [
+			"12 Apostles",
+			"Opera House",
+			"Harbour Bridge",
+			"Uluru"
+		],
+		"correct": "12 Apostles"
+	},
+	{
+		"id": "436",
+		"question": "What is a key event on Anzac Day?",
+		"options": [
+			"Citizenship ceremonies",
+			"Commemoration of war",
+			"Tax collection",
+			"Court session"
+		],
+		"correct": "Commemoration of war"
+	},
+	{
+		"id": "437",
+		"question": "What does the red on the Australian National Flag represent?",
+		"options": [
+			"Earth",
+			"British settlement",
+			"Blood",
+			"Sun"
+		],
+		"correct": "British settlement"
+	},
+	{
+		"id": "438",
+		"question": "What does the black on the Torres Strait Islander Flag symbolize?",
+		"options": [
+			"Land",
+			"People",
+			"Sea",
+			"Peace"
+		],
+		"correct": "People"
+	},
+	{
+		"id": "439",
+		"question": "What is the significance of the golden wattle?",
+		"options": [
+			"National gemstone",
+			"National flower",
+			"National anthem",
+			"National flag"
+		],
+		"correct": "National flower"
+	},
+	{
+		"id": "440",
+		"question": "What is the third line of the national anthem?",
+		"options": [
+			"We’ve golden soil and wealth for toil",
+			"For we are one and free",
+			"Our home is girt by sea",
+			"In joyful strains"
+		],
+		"correct": "We’ve golden soil and wealth for toil"
+	},
+	{
+		"id": "441",
+		"question": "What does parliamentary democracy ensure?",
+		"options": [
+			"King’s rule",
+			"People’s voice",
+			"Religious control",
+			"Military power"
+		],
+		"correct": "People’s voice"
+	},
+	{
+		"id": "442",
+		"question": "What does the Rule of Law apply to all?",
+		"options": [
+			"Citizens only",
+			"Everyone",
+			"Leaders only",
+			"Police only"
+		],
+		"correct": "Everyone"
+	},
+	{
+		"id": "443",
+		"question": "What do Australians value over force?",
+		"options": [
+			"Violence",
+			"Discussion",
+			"Revolution",
+			"Ignoring issues"
+		],
+		"correct": "Discussion"
+	},
+	{
+		"id": "444",
+		"question": "What is respected under Australian values?",
+		"options": [
+			"Wealth",
+			"Dignity",
+			"Power",
+			"Inequality"
+		],
+		"correct": "Dignity"
+	},
+	{
+		"id": "445",
+		"question": "What can freedom of speech include?",
+		"options": [
+			"Violence",
+			"Peaceful protest",
+			"Breaking laws",
+			"Silencing others"
+		],
+		"correct": "Peaceful protest"
+	},
+	{
+		"id": "446",
+		"question": "What can’t be forced under freedom of association?",
+		"options": [
+			"Joining",
+			"Leaving",
+			"Membership",
+			"Protesting"
+		],
+		"correct": "Membership"
+	},
+	{
+		"id": "447",
+		"question": "What is a Christian public holiday?",
+		"options": [
+			"Australia Day",
+			"Easter Sunday",
+			"Anzac Day",
+			"New Year"
+		],
+		"correct": "Easter Sunday"
+	},
+	{
+		"id": "448",
+		"question": "What protects against discrimination?",
+		"options": [
+			"Religious laws",
+			"Australian laws",
+			"Personal choice",
+			"Customs"
+		],
+		"correct": "Australian laws"
+	},
+	{
+		"id": "449",
+		"question": "What does equality of opportunity promote?",
+		"options": [
+			"Class distinctions",
+			"Fair go",
+			"Wealth privilege",
+			"Gender bias"
+		],
+		"correct": "Fair go"
+	},
+	{
+		"id": "450",
+		"question": "What must citizens do in a referendum?",
+		"options": [
+			"Protest",
+			"Vote",
+			"Campaign",
+			"Pay taxes"
+		],
+		"correct": "Vote"
+	},
+	{
+		"id": "451",
+		"question": "What privilege allows running for parliament?",
+		"options": [
+			"Residency",
+			"Citizenship",
+			"Wealth",
+			"Education"
+		],
+		"correct": "Citizenship"
+	},
+	{
+		"id": "452",
+		"question": "What is a way to participate politically?",
+		"options": [
+			"Breaking laws",
+			"Voting",
+			"Ignoring community",
+			"Tax evasion"
+		],
+		"correct": "Voting"
+	},
+	{
+		"id": "453",
+		"question": "What funds social security?",
+		"options": [
+			"Private donations",
+			"Taxes",
+			"Foreign aid",
+			"Charity"
+		],
+		"correct": "Taxes"
+	},
+	{
+		"id": "454",
+		"question": "What is a famous landmark in Victoria?",
+		"options": [
+			"12 Apostles",
+			"Opera House",
+			"Harbour Bridge",
+			"Uluru"
+		],
+		"correct": "12 Apostles"
+	},
+	{
+		"id": "455",
+		"question": "What is a key event on Anzac Day?",
+		"options": [
+			"Citizenship ceremonies",
+			"Commemoration of war",
+			"Tax collection",
+			"Court session"
+		],
+		"correct": "Commemoration of war"
+	},
+	{
+		"id": "456",
+		"question": "What does the red on the Australian National Flag represent?",
+		"options": [
+			"Earth",
+			"British settlement",
+			"Blood",
+			"Sun"
+		],
+		"correct": "British settlement"
+	},
+	{
+		"id": "457",
+		"question": "What does the black on the Torres Strait Islander Flag symbolize?",
+		"options": [
+			"Land",
+			"People",
+			"Sea",
+			"Peace"
+		],
+		"correct": "People"
+	},
+	{
+		"id": "458",
+		"question": "What is the significance of the golden wattle?",
+		"options": [
+			"National gemstone",
+			"National flower",
+			"National anthem",
+			"National flag"
+		],
+		"correct": "National flower"
+	},
+	{
+		"id": "459",
+		"question": "What is the third line of the national anthem?",
+		"options": [
+			"We’ve golden soil and wealth for toil",
+			"For we are one and free",
+			"Our home is girt by sea",
+			"In joyful strains"
+		],
+		"correct": "We’ve golden soil and wealth for toil"
+	},
+	{
+		"id": "460",
+		"question": "What does parliamentary democracy ensure?",
+		"options": [
+			"King’s rule",
+			"People’s voice",
+			"Religious control",
+			"Military power"
+		],
+		"correct": "People’s voice"
+	},
+	{
+		"id": "461",
+		"question": "What does the Rule of Law apply to all?",
+		"options": [
+			"Citizens only",
+			"Everyone",
+			"Leaders only",
+			"Police only"
+		],
+		"correct": "Everyone"
+	},
+	{
+		"id": "462",
+		"question": "What do Australians value over force?",
+		"options": [
+			"Violence",
+			"Discussion",
+			"Revolution",
+			"Ignoring issues"
+		],
+		"correct": "Discussion"
+	},
+	{
+		"id": "463",
+		"question": "What is respected under Australian values?",
+		"options": [
+			"Wealth",
+			"Dignity",
+			"Power",
+			"Inequality"
+		],
+		"correct": "Dignity"
+	},
+	{
+		"id": "464",
+		"question": "What can freedom of speech include?",
+		"options": [
+			"Violence",
+			"Peaceful protest",
+			"Breaking laws",
+			"Silencing others"
+		],
+		"correct": "Peaceful protest"
+	},
+	{
+		"id": "465",
+		"question": "What can’t be forced under freedom of association?",
+		"options": [
+			"Joining",
+			"Leaving",
+			"Membership",
+			"Protesting"
+		],
+		"correct": "Membership"
+	},
+	{
+		"id": "466",
+		"question": "What is a Christian public holiday?",
+		"options": [
+			"Australia Day",
+			"Easter Sunday",
+			"Anzac Day",
+			"New Year"
+		],
+		"correct": "Easter Sunday"
+	},
+	{
+		"id": "467",
+		"question": "What protects against discrimination?",
+		"options": [
+			"Religious laws",
+			"Australian laws",
+			"Personal choice",
+			"Customs"
+		],
+		"correct": "Australian laws"
+	},
+	{
+		"id": "468",
+		"question": "What does equality of opportunity promote?",
+		"options": [
+			"Class distinctions",
+			"Fair go",
+			"Wealth privilege",
+			"Gender bias"
+		],
+		"correct": "Fair go"
+	},
+	{
+		"id": "469",
+		"question": "What must citizens do in a referendum?",
+		"options": [
+			"Protest",
+			"Vote",
+			"Campaign",
+			"Pay taxes"
+		],
+		"correct": "Vote"
+	},
+	{
+		"id": "470",
+		"question": "What privilege allows running for parliament?",
+		"options": [
+			"Residency",
+			"Citizenship",
+			"Wealth",
+			"Education"
+		],
+		"correct": "Citizenship"
+	},
+	{
+		"id": "471",
+		"question": "What is a way to participate politically?",
+		"options": [
+			"Breaking laws",
+			"Voting",
+			"Ignoring community",
+			"Tax evasion"
+		],
+		"correct": "Voting"
+	},
+	{
+		"id": "472",
+		"question": "What funds social security?",
+		"options": [
+			"Private donations",
+			"Taxes",
+			"Foreign aid",
+			"Charity"
+		],
+		"correct": "Taxes"
+	},
+	{
+		"id": "473",
+		"question": "What is a notable feature in South Australia?",
+		"options": [
+			"Great Barrier Reef",
+			"Flinders Ranges",
+			"Uluru",
+			"Cradle Mountain"
+		],
+		"correct": "Flinders Ranges"
+	},
+	{
+		"id": "474",
+		"question": "What is a key event on Australia Day?",
+		"options": [
+			"Military parade",
+			"Citizenship ceremonies",
+			"Tax collection",
+			"Court session"
+		],
+		"correct": "Citizenship ceremonies"
+	},
+	{
+		"id": "475",
+		"question": "What does Anzac Day honor?",
+		"options": [
+			"Federation",
+			"Servicemen and women",
+			"Gold rush",
+			"Independence"
+		],
+		"correct": "Servicemen and women"
+	},
+	{
+		"id": "476",
+		"question": "What is the white on the Australian National Flag?",
+		"options": [
+			"Stars and Union Jack",
+			"Background",
+			"Red stripes",
+			"Blue field"
+		],
+		"correct": "Stars and Union Jack"
+	},
+	{
+		"id": "477",
+		"question": "What does the green on the Torres Strait Islander Flag symbolize?",
+		"options": [
+			"Land",
+			"Sea",
+			"People",
+			"Peace"
+		],
+		"correct": "Land"
+	},
+	{
+		"id": "478",
+		"question": "What is the significance of the golden wattle?",
+		"options": [
+			"National gemstone",
+			"National flower",
+			"National anthem",
+			"National flag"
+		],
+		"correct": "National flower"
+	},
+	{
+		"id": "479",
+		"question": "What is the fourth line of the national anthem?",
+		"options": [
+			"Our home is girt by sea",
+			"For we are one and free",
+			"We’ve golden soil and wealth for toil",
+			"In joyful strains"
+		],
+		"correct": "Our home is girt by sea"
+	},
+	{
+		"id": "480",
+		"question": "What does parliamentary democracy ensure?",
+		"options": [
+			"King’s rule",
+			"People’s voice",
+			"Religious control",
+			"Military power"
+		],
+		"correct": "People’s voice"
+	},
+	{
+		"id": "481",
+		"question": "What does the Rule of Law apply to?",
+		"options": [
+			"Citizens only",
+			"Everyone",
+			"Leaders only",
+			"Police only"
+		],
+		"correct": "Everyone"
+	},
+	{
+		"id": "482",
+		"question": "What do Australians value over violence?",
+		"options": [
+			"Force",
+			"Discussion",
+			"Revolution",
+			"Ignoring issues"
+		],
+		"correct": "Discussion"
+	},
+	{
+		"id": "483",
+		"question": "What is respected under Australian values?",
+		"options": [
+			"Wealth",
+			"Dignity",
+			"Power",
+			"Inequality"
+		],
+		"correct": "Dignity"
+	},
+	{
+		"id": "484",
+		"question": "What can freedom of speech include?",
+		"options": [
+			"Violence",
+			"Peaceful protest",
+			"Breaking laws",
+			"Silencing others"
+		],
+		"correct": "Peaceful protest"
+	},
+	{
+		"id": "485",
+		"question": "What cannot be compelled under freedom of association?",
+		"options": [
+			"Joining",
+			"Leaving",
+			"Membership",
+			"Protesting"
+		],
+		"correct": "Membership"
+	},
+	{
+		"id": "486",
+		"question": "What is a Christian public holiday?",
+		"options": [
+			"Australia Day",
+			"Christmas Day",
+			"Anzac Day",
+			"New Year"
+		],
+		"correct": "Christmas Day"
+	},
+	{
+		"id": "487",
+		"question": "What protects against discrimination?",
+		"options": [
+			"Religious laws",
+			"Australian laws",
+			"Personal choice",
+			"Customs"
+		],
+		"correct": "Australian laws"
+	},
+	{
+		"id": "488",
+		"question": "What does equality of opportunity promote?",
+		"options": [
+			"Class distinctions",
+			"Fair go",
+			"Wealth privilege",
+			"Gender bias"
+		],
+		"correct": "Fair go"
+	},
+	{
+		"id": "489",
+		"question": "What must citizens do in elections?",
+		"options": [
+			"Protest",
+			"Vote",
+			"Campaign",
+			"Pay taxes"
+		],
+		"correct": "Vote"
+	},
+	{
+		"id": "490",
+		"question": "What privilege allows work in the Defence Force?",
+		"options": [
+			"Residency",
+			"Citizenship",
+			"Wealth",
+			"Education"
+		],
+		"correct": "Citizenship"
+	},
+	{
+		"id": "491",
+		"question": "What is a way to contribute to the community?",
+		"options": [
+			"Breaking laws",
+			"Volunteering",
+			"Ignoring others",
+			"Tax evasion"
+		],
+		"correct": "Volunteering"
+	},
+	{
+		"id": "492",
+		"question": "What funds education in Australia?",
+		"options": [
+			"Private donations",
+			"Taxes",
+			"Foreign aid",
+			"Charity"
+		],
+		"correct": "Taxes"
+	},
+	{
+		"id": "493",
+		"question": "What is a famous landmark in Queensland?",
+		"options": [
+			"Great Barrier Reef",
+			"Opera House",
+			"Harbour Bridge",
+			"Uluru"
+		],
+		"correct": "Great Barrier Reef"
+	},
+	{
+		"id": "494",
+		"question": "What is celebrated on 26 January?",
+		"options": [
+			"Anzac Day",
+			"Australia Day",
+			"Federation Day",
+			"Easter"
+		],
+		"correct": "Australia Day"
+	},
+	{
+		"id": "495",
+		"question": "What does Anzac Day commemorate?",
+		"options": [
+			"Federation",
+			"First Fleet",
+			"Servicemen and women",
+			"Gold rush"
+		],
+		"correct": "Servicemen and women"
+	},
+	{
+		"id": "496",
+		"question": "What does the yellow on the Aboriginal Flag represent?",
+		"options": [
+			"Earth",
+			"Sun",
+			"People",
+			"Sky"
+		],
+		"correct": "Sun"
+	},
+	{
+		"id": "497",
+		"question": "What does the blue on the Torres Strait Islander Flag represent?",
+		"options": [
+			"Land",
+			"Sea",
+			"People",
+			"Peace"
+		],
+		"correct": "Sea"
+	},
+	{
+		"id": "498",
+		"question": "What is the national gemstone of Australia?",
+		"options": [
+			"Diamond",
+			"Opal",
+			"Emerald",
+			"Sapphire"
+		],
+		"correct": "Opal"
+	},
+	{
+		"id": "499",
+		"question": "What line follows ‘For we are one and free’ in the anthem?",
+		"options": [
+			"We’ve golden soil and wealth for toil",
+			"Our home is girt by sea",
+			"In joyful strains",
+			"Advance Australia Fair"
+		],
+		"correct": "We’ve golden soil and wealth for toil"
+	},
+	{
+		"id": "500",
+		"question": "What does the Rule of Law mean for leaders?",
+		"options": [
+			"They are above the law",
+			"They must obey the law",
+			"They make the law",
+			"They ignore the law"
+		],
+		"correct": "They must obey the law"
+	}
+]

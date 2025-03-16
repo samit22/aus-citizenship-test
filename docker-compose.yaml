@@ -1,0 +1,31 @@
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: aus-quiz-backend
+    environment:
+      - PORT=5022
+      - QUESTION_LIMIT=30
+    ports:
+      - "5022:5022"
+    networks:
+      - app-network
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: aus-quiz-frontend
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:5022/api
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
