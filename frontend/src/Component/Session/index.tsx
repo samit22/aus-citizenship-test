@@ -122,20 +122,26 @@ export default function Session(params: ISessionProps) {
       <Head>
         <title>Australian Citizenship Quiz</title>
       </Head>
+      {alert && alert.show && (
+          <Slide in={alert.show} timeout={500} >
+            <Box mt={2} sx={{
+              position: "absolute",
+              top: 0,
+              left: "50%",
+              transform: "translateX(-50%)",
+              zIndex: 1,
+              }}>
+              <Alert
+                severity={alert.severity}
+                sx={{ justifyContent: "center" }}
+              >
+                {alert.message}
+              </Alert>
+            </Box>
+          </Slide>
+        )}
       <Box my={4}>
         <Paper elevation={3} sx={{ p: 3 }}>
-          {alert && alert.show && (
-            <Slide in={alert.show} timeout={500}>
-              <Box mt={2}>
-                <Alert
-                  severity={alert.severity}
-                  sx={{ justifyContent: "center" }}
-                >
-                  {alert.message}
-                </Alert>
-              </Box>
-            </Slide>
-          )}
           <Typography variant="h5" gutterBottom>
             Question {currentQuestion.number} of {total}
           </Typography>
