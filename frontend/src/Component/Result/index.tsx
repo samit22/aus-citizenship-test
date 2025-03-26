@@ -1,7 +1,9 @@
 "use client";
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useRef } from "react";
 import { useRouter } from "next/navigation";
 import { ResultResponse } from "../../types";
+import { Fireworks } from '@fireworks-js/react'
+import type { FireworksHandlers } from '@fireworks-js/react'
 import axios from "axios";
 import { Loader } from "../Utils";
 import {
@@ -27,7 +29,7 @@ interface IResultProps {
 const ResultPaper = styled(Paper)(({ theme }) => ({
   padding: theme.spacing(4),
   textAlign: "center",
-  background: "linear-gradient(135deg, #ffffff 0%, #f0f4f8 100%)",
+  background: "linear-gradient(135deg, rgba(255, 255, 255, 0.8) 10%, rgba(240, 244, 248, 0.8) 80%)",
   borderRadius: theme.shape.borderRadius * 2,
 }));
 
@@ -41,6 +43,7 @@ const StatusBox = styled(Box)(({ theme }) => ({
 export default function Results(props: IResultProps) {
   const router = useRouter();
   const [result, setResult] = useState<ResultResponse | null>(null);
+  const firework = useRef<FireworksHandlers>(null)
   const getResult = async (sessionId: string) => {
     try {
       const response = await axios.get<ResultResponse>(
@@ -58,6 +61,8 @@ export default function Results(props: IResultProps) {
     }
     getResult(props.sessionId);
   }, [props.sessionId]);
+
+  console.log("result", result)
 
   const handleReset = () => {
     router.push("/");
@@ -122,8 +127,30 @@ export default function Results(props: IResultProps) {
   }
 
   return (
-    <Container maxWidth="md">
-      <Box my={6}>
+    <Container maxWidth="lg">
+      {result?.score == 100 &&
+        <Fireworks
+          ref={firework}
+          options={{ opacity: 2,
+            mouse: {
+              click: true,
+              move: true,
+              max: 5
+            },
+            acceleration: 1.02,
+           }}
+          style={{
+            top: 0,
+            left: 0,
+            width: '100%',
+            height: '100%',
+            position: 'absolute',
+            background: '#fff',
+            zIndex: -1,
+        }}
+      />
+      }
+      <Box my={6} zIndex={2}>
         <ResultPaper elevation={3}>
           <Typography variant="h4" gutterBottom>
             Quiz Results
@@ -156,8 +183,8 @@ export default function Results(props: IResultProps) {
           <Fade in={true} timeout={1000}>
             <Box>
               <Typography variant="body1" gutterBottom>
-                You scored {result.score}% out of {result.total_questions}{" "}
-                questions.
+                You scored {result.score}%
+                ({result.total_questions - (result.incorrect_answers?.length || 0)} out of {result.total_questions} questions.)
               </Typography>
               <Typography
                 variant="body1"
@@ -168,7 +195,7 @@ export default function Results(props: IResultProps) {
               </Typography>
             </Box>
           </Fade>
-          {result.incorrect_answers.length > 0 && (
+          {result.incorrect_answers?.length > 0 && (
             <Box mt={4}>
               <Typography variant="h6" gutterBottom>
                 Incorrect Answers ({result.incorrect_answers.length})
