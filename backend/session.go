@@ -31,7 +31,7 @@ func StartSession(w http.ResponseWriter, r *http.Request) {
 	}
 
 	sessionID = fmt.Sprintf("sid-%d", rand.Int64())
-	shuffled := model.ShuffleQuestions(questions)
+	shuffled := model.NewShuffleQuestions(questions, model.Limit)
 	for i := range len(shuffled) {
 		shuffled[i].Number = strconv.Itoa(i + 1)
 		shuffled[i].Correct = ""

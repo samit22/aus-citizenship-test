@@ -5,10 +5,10 @@ services:
       dockerfile: Dockerfile
     container_name: aus-quiz-backend
     environment:
-      - PORT=5022
-      - QUESTION_LIMIT=30
+      PORT: 5022
+      QUESTION_LIMIT: 15
     ports:
-      - "5022:5022"
+      - '5022:5022'
     networks:
       - app-network
 
@@ -18,9 +18,9 @@ services:
       dockerfile: Dockerfile
     container_name: aus-quiz-frontend
     environment:
-      - NEXT_PUBLIC_API_URL=http://localhost:5022/api
+      NEXT_PUBLIC_API_URL: http://localhost:5022/api
     ports:
-      - "3000:3000"
+      - '3000:3000'
     depends_on:
       - backend
     networks:

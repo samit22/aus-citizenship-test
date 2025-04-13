@@ -54,7 +54,7 @@ func main() {
 		}
 		http.NotFound(w, r)
 	})
-	port := cmp.Or(os.Getenv("PORT"), "5011")
+	port := cmp.Or(os.Getenv("PORT"), "`5011`")
 
 	log.Println("Backend server starting on port: ", port)
 	if err := http.ListenAndServe(":"+port, nil); err != nil {
