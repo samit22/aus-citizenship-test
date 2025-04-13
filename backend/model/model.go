@@ -97,3 +97,31 @@ func getLimit() int {
 	}
 	return DefaultLimit
 }
+
+func NewShuffleQuestions(qs []Question, limit int) []Question {
+	if limit > len(qs) {
+		limit = len(qs)
+	}
+	if limit <= 0 {
+		return nil
+	}
+
+	indices := rand.Perm(len(qs))
+	selected := make([]Question, limit)
+	for i := 0; i < limit; i++ {
+		selected[i] = qs[indices[i]]
+	}
+
+	for i := range selected {
+		options := make([]string, len(selected[i].Options))
+		copy(options, selected[i].Options)
+
+		optIndices := rand.Perm(len(options))
+
+		for j, idx := range optIndices {
+			selected[i].Options[j] = options[idx]
+		}
+	}
+
+	return selected
+}

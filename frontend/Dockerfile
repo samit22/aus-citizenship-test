@@ -1,4 +1,6 @@
 FROM node:20-alpine AS builder
+ARG NEXT_PUBLIC_API_URL=http://localhost:5022/api
+ENV NEXT_PUBLIC_API_URL=$NEXT_PUBLIC_API_URL
 
 WORKDIR /app
 
