@@ -20,11 +20,16 @@ export default function Footer() {
       }}
     >
       <Typography variant="body2" color="text.secondary">
-        Built with ❤️ by <Link href="https://x.com/samit_gh" target="_blank" rel="noopener">Sam</Link>
+        Built with ❤️ by{' '}
+        <Link href="https://x.com/samit_gh" target="_blank" rel="noopener">
+          Sam
+        </Link>
       </Typography>
       <Typography variant="body2" color="text.secondary" sx={{ mt: 0.5 }}>
         <Box sx={{ position: 'relative', display: 'inline-block' }}>
-          <Box component="span" sx={{ fontSize: '1.8em' }}>☕</Box>
+          <Box component="span" sx={{ fontSize: '1.8em' }}>
+            ☕
+          </Box>
           <Box
             sx={{
               position: 'absolute',
@@ -43,14 +48,15 @@ export default function Footer() {
                 position: 'absolute',
                 left: 5,
                 animationDelay: '1s',
-              }
+              },
             }}
           >
             💨
           </Box>
         </Box>
         <Box component="span" sx={{ ml: 1 }}>
-          Like this site? <Link
+          Like this site?{' '}
+          <Link
             href="https://buymeacoffee.com/samit22"
             target="_blank"
             rel="noopener"
